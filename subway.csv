@@ -1,0 +1,1869 @@
+id,Line,Station Name,Route1,Route2,Route3,Route4,Route5,Route6,Route7,Route8,Route9,Route10,Route11,Entrance Type,Entry,ADA,Free Crossover,Entrance Latitude,Entrance Longitude
+0,4 Avenue,25th St,R,,,,,,,,,,,Stair,1,0,0,40.660323,-73.997952
+1,4 Avenue,25th St,R,,,,,,,,,,,Stair,1,0,0,40.660489,-73.99822
+2,4 Avenue,36th St,N,R,,,,,,,,,,Stair,1,0,1,40.65449,-74.004499
+3,4 Avenue,36th St,N,R,,,,,,,,,,Stair,1,0,1,40.654365,-74.004113
+4,4 Avenue,36th St,N,R,,,,,,,,,,Stair,1,0,1,40.654676,-74.004306
+5,4 Avenue,45th St,R,,,,,,,,,,,Stair,1,0,1,40.649389,-74.009333
+6,4 Avenue,45th St,R,,,,,,,,,,,Stair,1,0,1,40.649424,-74.009728
+7,4 Avenue,45th St,R,,,,,,,,,,,Stair,1,0,1,40.649265,-74.009457
+8,4 Avenue,45th St,R,,,,,,,,,,,Stair,1,0,1,40.649546,-74.009602
+9,4 Avenue,53rd St,R,,,,,,,,,,,Stair,1,0,1,40.644653,-74.01469
+10,4 Avenue,53rd St,R,,,,,,,,,,,Stair,1,0,1,40.644493,-74.014419
+11,4 Avenue,53rd St,R,,,,,,,,,,,Stair,1,0,1,40.644756,-74.014586
+12,4 Avenue,53rd St,R,,,,,,,,,,,Stair,1,0,1,40.644601,-74.014309
+13,4 Avenue,53rd St,R,,,,,,,,,,,Stair,0,0,1,40.645619,-74.013688
+14,4 Avenue,59th St,N,R,,,,,,,,,,Stair,1,0,1,40.641606,-74.017897
+15,4 Avenue,59th St,N,R,,,,,,,,,,Stair,1,0,1,40.641435,-74.017561
+16,4 Avenue,59th St,N,R,,,,,,,,,,Stair,1,0,1,40.641778,-74.017722
+17,4 Avenue,59th St,N,R,,,,,,,,,,Stair,1,0,1,40.641633,-74.017362
+18,4 Avenue,59th St,N,R,,,,,,,,,,Stair,1,0,1,40.640682,-74.018857
+19,4 Avenue,59th St,N,R,,,,,,,,,,Stair,1,0,1,40.640501,-74.018531
+20,4 Avenue,77th St,R,,,,,,,,,,,Stair,1,0,1,40.62955,-74.025731
+21,4 Avenue,77th St,R,,,,,,,,,,,Stair,1,0,1,40.629503,-74.025452
+22,4 Avenue,77th St,R,,,,,,,,,,,Stair,0,0,1,40.630221,-74.025459
+23,4 Avenue,86th St,R,,,,,,,,,,,Stair,1,0,1,40.622656,-74.028547
+24,4 Avenue,86th St,R,,,,,,,,,,,Stair,1,0,1,40.622583,-74.028315
+25,4 Avenue,86th St,R,,,,,,,,,,,Stair,1,0,1,40.623498,-74.028204
+26,4 Avenue,95th St,R,,,,,,,,,,,Stair,1,0,1,40.616021,-74.031383
+27,4 Avenue,95th St,R,,,,,,,,,,,Stair,1,0,1,40.615893,-74.03086
+28,4 Avenue,95th St,R,,,,,,,,,,,Stair,1,0,1,40.616189,-74.031234
+29,4 Avenue,95th St,R,,,,,,,,,,,Stair,1,0,1,40.617587,-74.030696
+30,4 Avenue,95th St,R,,,,,,,,,,,Stair,1,0,1,40.617363,-74.030404
+31,4 Avenue,9th St,F,G,R,,,,,,,,,Stair,1,0,1,40.670387,-73.98848
+32,4 Avenue,9th St,F,G,R,,,,,,,,,Stair,1,0,1,40.670538,-73.988778
+33,4 Avenue,Atlantic Av-Barclays Ctr,B,Q,D,N,R,2,3,4,5,,,Elevator,1,1,1,40.683805,-73.978487
+34,4 Avenue,Bay Ridge Av,R,,,,,,,,,,,Stair,1,0,1,40.634827,-74.02358
+35,4 Avenue,Bay Ridge Av,R,,,,,,,,,,,Stair,1,0,1,40.634768,-74.023339
+36,4 Avenue,Bay Ridge Av,R,,,,,,,,,,,Stair,0,0,1,40.635468,-74.023313
+37,4 Avenue,DeKalb Av,B,Q,R,,,,,,,,,Elevator,1,1,1,40.689804,-73.981164
+38,4 Avenue,DeKalb Av,B,Q,R,,,,,,,,,Stair,1,1,1,40.68981,-73.981651
+39,4 Avenue,DeKalb Av,B,Q,R,,,,,,,,,Stair,1,1,1,40.689817,-73.981082
+40,4 Avenue,DeKalb Av,B,Q,R,,,,,,,,,Stair,1,1,1,40.68974,-73.981156
+41,4 Avenue,DeKalb Av,B,Q,R,,,,,,,,,Easement,1,1,1,40.69154,-73.982565
+42,4 Avenue,DeKalb Av,B,Q,R,,,,,,,,,Stair,1,1,1,40.691562,-73.982048
+43,4 Avenue,Pacific St,B,Q,D,N,R,2,3,4,5,,,Stair,1,1,1,40.683905,-73.978879
+44,4 Avenue,Pacific St,B,Q,D,N,R,2,3,4,5,,,Stair,1,1,1,40.683928,-73.978412
+45,4 Avenue,Prospect Av,R,,,,,,,,,,,Stair,1,0,0,40.665299,-73.992729
+46,4 Avenue,Prospect Av,R,,,,,,,,,,,Stair,1,0,0,40.665058,-73.993002
+47,4 Avenue,Prospect Av,R,,,,,,,,,,,Stair,1,0,0,40.665269,-73.993245
+48,4 Avenue,Union St,R,,,,,,,,,,,Stair,1,0,0,40.677001,-73.983133
+49,4 Avenue,Union St,R,,,,,,,,,,,Stair,1,0,0,40.677279,-73.983327
+50,4 Avenue,Union St,R,,,,,,,,,,,Stair,1,0,0,40.677171,-73.98302
+51,4 Avenue,Union St,R,,,,,,,,,,,Stair,1,0,0,40.677135,-73.983416
+52,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.75283,-73.978917
+53,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.752218,-73.978396
+54,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.752279,-73.97828
+55,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.752717,-73.978487
+56,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Escalator,1,1,1,40.752184,-73.978048
+57,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Easement,0,1,1,40.752846,-73.979798
+58,42nd St Shuttle,Grand Central,GS,4,5,6,7,,,,,,,Stair,0,1,1,40.753087,-73.979537
+59,42nd St Shuttle,Times Square,A,C,E,N,Q,R,GS,1,2,3,7,Stair,1,0,1,40.756476,-73.986311
+60,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737423,-73.99722
+61,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737572,-73.997111
+62,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737519,-73.99697
+63,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.73737,-73.997079
+64,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738678,-73.995632
+65,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738529,-73.995685
+66,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738838,-73.996023
+67,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738718,-73.996121
+68,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737286,-73.996437
+69,6 Avenue,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737316,-73.996508
+70,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.742659,-73.992489
+71,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.742715,-73.992617
+72,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.74288,-73.992506
+73,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.742825,-73.992383
+74,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.743121,-73.993099
+75,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.743066,-73.992971
+76,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.742977,-73.993188
+77,6 Avenue,23rd St,F,M,,,,,,,,,,Stair,1,0,0,40.742922,-73.993066
+78,6 Avenue,2nd Av,F,,,,,,,,,,,Stair,1,0,1,40.722807,-73.988942
+79,6 Avenue,2nd Av,F,,,,,,,,,,,Stair,1,0,1,40.7232,-73.988863
+80,6 Avenue,2nd Av,F,,,,,,,,,,,Stair,1,0,1,40.72395,-73.991298
+81,6 Avenue,2nd Av,F,,,,,,,,,,,Stair,1,0,1,40.723665,-73.991651
+82,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Elevator,1,1,1,40.749615,-73.988159
+83,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.749845,-73.988254
+84,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.750088,-73.988142
+85,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.750674,-73.988031
+86,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.750271,-73.987066
+87,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.75088,-73.988096
+88,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.750647,-73.987346
+89,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.750404,-73.986989
+90,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Easement,1,1,1,40.74895,-73.988623
+91,6 Avenue,34th St,B,D,F,M,N,Q,R,,,,,Easement,1,1,1,40.748746,-73.988774
+92,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Easement,1,0,1,40.754849,-73.984627
+93,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.754609,-73.983894
+94,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Easement,1,0,1,40.753709,-73.985084
+95,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.755333,-73.983934
+96,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.755008,-73.984249
+97,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.754832,-73.983657
+98,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.753473,-73.985259
+99,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.753408,-73.984892
+100,6 Avenue,42nd St,B,D,F,M,7,,,,,,,Stair,1,0,1,40.753546,-73.984779
+101,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.759434,-73.981001
+102,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.759896,-73.980706
+103,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.760502,-73.980218
+104,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.759953,-73.980117
+105,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.760125,-73.980499
+106,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.759301,-73.980594
+107,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Elevator,1,1,1,40.759414,-73.981035
+108,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,7,,,,,,,Stair,1,1,1,40.758996,-73.980788
+109,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.758623,-73.981566
+110,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.758977,-73.981352
+111,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Easement,1,1,1,40.759105,-73.981252
+112,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Stair,1,1,1,40.757801,-73.981788
+113,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Stair,1,1,1,40.758024,-73.982079
+114,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Stair,1,1,1,40.757981,-73.98154
+115,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Stair,1,1,1,40.757862,-73.981735
+116,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Stair,1,1,1,40.758486,-73.981158
+117,6 Avenue,47-50th Sts Rockefeller Center,B,D,F,M,,,,,,,,Stair,1,1,1,40.758615,-73.981095
+118,6 Avenue,4th Av,F,,,,,,,,,,,Door,1,0,1,40.669953,-73.989442
+119,6 Avenue,4th Av,F,,,,,,,,,,,Door,1,0,1,40.67001,-73.989248
+120,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.763874,-73.977358
+121,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.764227,-73.97743
+122,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.763998,-73.977264
+123,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.764652,-73.977119
+124,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.764564,-73.97683
+125,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.763482,-73.977974
+126,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.763392,-73.977674
+127,6 Avenue,57th St,F,,,,,,,,,,,Stair,1,0,1,40.763831,-73.977718
+128,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.665835,-73.979007
+129,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.665494,-73.979278
+130,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.665593,-73.979509
+131,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.665993,-73.979181
+132,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.666649,-73.981624
+133,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.667004,-73.981331
+134,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.666751,-73.981851
+135,6 Avenue,7th Av,F,,,,,,,,,,,Stair,1,0,1,40.667112,-73.981716
+136,6 Avenue,Bergen St,F,G,,,,,,,,,,Stair,1,0,0,40.686584,-73.990362
+137,6 Avenue,Bergen St,F,G,,,,,,,,,,Stair,1,0,0,40.686727,-73.990269
+138,6 Avenue,Bergen St,F,G,,,,,,,,,,Stair,1,0,0,40.686708,-73.990629
+139,6 Avenue,Bergen St,F,G,,,,,,,,,,Stair,1,0,0,40.686868,-73.990526
+140,6 Avenue,Bergen St,F,G,,,,,,,,,,Stair,1,0,0,40.685579,-73.991465
+141,6 Avenue,Bergen St,F,G,,,,,,,,,,Stair,1,0,0,40.685445,-73.991131
+142,6 Avenue,Broadway-Lafayette St,B,D,F,M,6,,,,,,,Stair,1,0,1,40.725202,-73.996583
+143,6 Avenue,Broadway-Lafayette St,B,D,F,M,6,,,,,,,Stair,1,0,1,40.725499,-73.996387
+144,6 Avenue,Broadway-Lafayette St,B,D,F,M,6,,,,,,,Stair,1,0,1,40.725344,-73.995612
+145,6 Avenue,Broadway-Lafayette St,B,D,F,M,6,,,,,,,Stair,0,0,1,40.724987,-73.995628
+146,6 Avenue,Broadway-Lafayette St,B,D,F,M,6,,,,,,,Stair,0,0,1,40.725011,-73.995745
+147,6 Avenue,Carroll St,F,G,,,,,,,,,,Stair,1,0,1,40.679299,-73.995698
+148,6 Avenue,Carroll St,F,G,,,,,,,,,,Stair,1,0,1,40.679344,-73.995288
+149,6 Avenue,Carroll St,F,G,,,,,,,,,,Stair,1,0,1,40.680806,-73.99435
+150,6 Avenue,Carroll St,F,G,,,,,,,,,,Stair,1,0,1,40.680944,-73.994247
+151,6 Avenue,Carroll St,F,G,,,,,,,,,,Stair,1,0,1,40.681115,-73.994434
+152,6 Avenue,Church Av,F,,,,,,,,,,,Stair,1,1,1,40.642571,-73.979579
+153,6 Avenue,Church Av,F,,,,,,,,,,,Stair,1,1,1,40.642692,-73.97926
+154,6 Avenue,Church Av,F,,,,,,,,,,,Stair,1,1,1,40.643147,-73.979342
+155,6 Avenue,Church Av,F,,,,,,,,,,,Stair,1,1,1,40.643006,-73.97966
+156,6 Avenue,Church Av,F,,,,,,,,,,,Stair,1,1,1,40.645042,-73.979573
+157,6 Avenue,Church Av,F,,,,,,,,,,,Stair,1,1,1,40.644908,-73.980019
+158,6 Avenue,Delancey St,F,J,M,Z,,,,,,,,Stair,1,0,1,40.718781,-73.988233
+159,6 Avenue,Delancey St,F,J,M,Z,,,,,,,,Stair,1,0,1,40.718778,-73.987961
+160,6 Avenue,Delancey St,F,J,M,Z,,,,,,,,Stair,1,0,1,40.718372,-73.988445
+161,6 Avenue,Delancey St,F,J,M,Z,,,,,,,,Stair,1,0,1,40.718207,-73.988273
+162,6 Avenue,East Broadway,F,,,,,,,,,,,Stair,1,0,1,40.712727,-73.990126
+163,6 Avenue,East Broadway,F,,,,,,,,,,,Stair,1,0,1,40.713906,-73.990014
+164,6 Avenue,East Broadway,F,,,,,,,,,,,Stair,1,0,1,40.714194,-73.990352
+165,6 Avenue,East Broadway,F,,,,,,,,,,,Stair,1,0,1,40.714404,-73.989918
+166,6 Avenue,Fort Hamilton Parkway,F,,,,,,,,,,,Stair,1,0,1,40.651834,-73.976076
+167,6 Avenue,Fort Hamilton Parkway,F,,,,,,,,,,,Stair,1,0,1,40.651608,-73.975596
+168,6 Avenue,Fort Hamilton Parkway,F,,,,,,,,,,,Stair,1,0,1,40.652665,-73.975901
+169,6 Avenue,Fort Hamilton Parkway,F,,,,,,,,,,,Door,1,0,1,40.649854,-73.975815
+170,6 Avenue,Grand St,B,D,,,,,,,,,,Stair,1,0,1,40.718155,-73.993452
+171,6 Avenue,Grand St,B,D,,,,,,,,,,Stair,1,0,1,40.718191,-73.993577
+172,6 Avenue,Grand St,B,D,,,,,,,,,,Stair,1,0,1,40.718265,-73.993877
+173,6 Avenue,Prospect Park-15 St,F,,,,,,,,,,,Stair,1,0,1,40.659436,-73.979951
+174,6 Avenue,Prospect Park-15 St,F,,,,,,,,,,,Stair,1,0,1,40.660198,-73.979787
+175,6 Avenue,Prospect Park-15 St,F,,,,,,,,,,,Stair,1,0,1,40.660705,-73.979522
+176,6 Avenue,Prospect Park-15 St,F,,,,,,,,,,,Stair,1,0,1,40.660763,-73.978992
+177,6 Avenue,Prospect Park-15 St,F,,,,,,,,,,,Stair,1,0,1,40.661287,-73.979395
+178,6 Avenue,Prospect Park-15 St,F,,,,,,,,,,,Stair,1,0,1,40.6614,-73.979762
+179,6 Avenue,Smith-9th St,F,G,R,,,,,,,,,Door,1,0,1,40.674725,-73.997505
+180,6 Avenue,York St,F,,,,,,,,,,,Stair,1,0,1,40.70138,-73.986655
+181,63rd Street,21st St,F,,,,,,,,,,,Elevator,1,1,1,40.754322,-73.942374
+182,63rd Street,21st St,F,,,,,,,,,,,Escalator,1,1,1,40.754131,-73.942491
+183,63rd Street,21st St,F,,,,,,,,,,,Escalator,1,1,1,40.754195,-73.942521
+184,63rd Street,21st St,F,,,,,,,,,,,Stair,1,1,1,40.754069,-73.942132
+185,63rd Street,21st St,F,,,,,,,,,,,Stair,1,1,1,40.754255,-73.941935
+186,63rd Street,Lexington Av,F,,,,,,,,,,,Elevator,1,1,1,40.764884,-73.966514
+187,63rd Street,Lexington Av,F,,,,,,,,,,,Escalator,1,1,1,40.764874,-73.966431
+188,63rd Street,Lexington Av,F,,,,,,,,,,,Escalator,1,1,1,40.764881,-73.966411
+189,63rd Street,Lexington Av,F,,,,,,,,,,,Stair,1,1,1,40.764721,-73.966552
+190,63rd Street,Lexington Av,F,,,,,,,,,,,Stair,1,1,1,40.764866,-73.966422
+191,63rd Street,Roosevelt Island,F,,,,,,,,,,,Door,1,1,1,40.759016,-73.953505
+192,8 Avenue,103rd St,B,C,,,,,,,,,,Stair,1,0,1,40.796263,-73.96161
+193,8 Avenue,116th St,B,C,,,,,,,,,,Stair,1,0,0,40.804312,-73.955643
+194,8 Avenue,116th St,B,C,,,,,,,,,,Stair,1,0,0,40.804639,-73.955559
+195,8 Avenue,116th St,B,C,,,,,,,,,,Stair,1,0,0,40.804428,-73.955024
+196,8 Avenue,116th St,B,C,,,,,,,,,,Stair,1,0,0,40.804172,-73.955131
+197,8 Avenue,125th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.810879,-73.952318
+198,8 Avenue,125th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.810526,-73.952583
+199,8 Avenue,125th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.811007,-73.952615
+200,8 Avenue,125th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.810636,-73.952886
+201,8 Avenue,125th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.811858,-73.951351
+202,8 Avenue,125th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.81199,-73.951745
+203,8 Avenue,135th St,B,C,,,,,,,,,,Stair,1,0,0,40.817125,-73.948225
+204,8 Avenue,135th St,B,C,,,,,,,,,,Stair,1,0,0,40.818558,-73.947543
+205,8 Avenue,135th St,B,C,,,,,,,,,,Stair,1,0,0,40.817188,-73.947665
+206,8 Avenue,135th St,B,C,,,,,,,,,,Stair,1,0,0,40.816892,-73.947818
+207,8 Avenue,135th St,B,C,,,,,,,,,,Stair,1,0,0,40.816867,-73.947953
+208,8 Avenue,135th St,B,C,,,,,,,,,,Stair,1,0,0,40.818354,-73.947213
+209,8 Avenue,145th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.823791,-73.944726
+210,8 Avenue,145th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.823915,-73.945027
+211,8 Avenue,145th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.824244,-73.944931
+212,8 Avenue,145th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.824028,-73.944409
+213,8 Avenue,145th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.825622,-73.943796
+214,8 Avenue,145th St,A,B,C,D,,,,,,,,Stair,1,0,1,40.825581,-73.943444
+215,8 Avenue,14th St,A,C,E,L,,,,,,,,Easement,1,1,1,40.740938,-74.001919
+216,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,1,1,1,40.741235,-74.001715
+217,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,1,1,1,40.740944,-74.001402
+218,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,1,1,1,40.741046,-74.001284
+219,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,1,1,1,40.739949,-74.002655
+220,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,0,1,1,40.74041,-74.00175
+221,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,0,1,1,40.740598,-74.002185
+222,8 Avenue,14th St,A,C,E,L,,,,,,,,Stair,0,1,1,40.739776,-74.002256
+223,8 Avenue,155th St,C,,,,,,,,,,,Stair,1,0,1,40.830744,-73.941597
+224,8 Avenue,155th St,C,,,,,,,,,,,Stair,1,0,1,40.830854,-73.941638
+225,8 Avenue,155th St,C,,,,,,,,,,,Stair,1,0,1,40.831106,-73.94155
+226,8 Avenue,155th St,C,,,,,,,,,,,Stair,1,0,1,40.831139,-73.941447
+227,8 Avenue,155th St,C,,,,,,,,,,,Stair,1,0,1,40.831031,-73.941149
+228,8 Avenue,155th St,C,,,,,,,,,,,Stair,1,0,1,40.830921,-73.9411
+229,8 Avenue,163rd St - Amsterdam Av,C,,,,,,,,,,,Stair,1,0,0,40.835192,-73.940146
+230,8 Avenue,163rd St - Amsterdam Av,C,,,,,,,,,,,Stair,1,0,0,40.835278,-73.939625
+231,8 Avenue,163rd St - Amsterdam Av,C,,,,,,,,,,,Stair,1,0,0,40.835936,-73.940137
+232,8 Avenue,168th St - Washington Heights,A,C,,,,,,,,,,Stair,1,1,1,40.840741,-73.939252
+233,8 Avenue,168th St - Washington Heights,A,C,,,,,,,,,,Stair,1,1,1,40.84186,-73.939569
+234,8 Avenue,168th St - Washington Heights,A,C,,,,,,,,,,Stair,1,1,1,40.841928,-73.939455
+235,8 Avenue,168th St - Washington Heights,A,C,,,,,,,,,,Stair,1,1,1,40.84176,-73.939067
+236,8 Avenue,175th St,A,,,,,,,,,,,Elevator,1,1,1,40.847946,-73.939375
+237,8 Avenue,175th St,A,,,,,,,,,,,Stair,1,1,1,40.847809,-73.939807
+238,8 Avenue,175th St,A,,,,,,,,,,,Stair,1,1,1,40.847944,-73.939679
+239,8 Avenue,175th St,A,,,,,,,,,,,Stair,1,1,1,40.847859,-73.939303
+240,8 Avenue,175th St,A,,,,,,,,,,,Stair,1,1,1,40.847992,-73.939564
+241,8 Avenue,175th St,A,,,,,,,,,,,Stair,1,1,1,40.846352,-73.940287
+242,8 Avenue,175th St,A,,,,,,,,,,,Stair,1,1,1,40.846407,-73.939861
+243,8 Avenue,181st St,A,,,,,,,,,,,Door,1,0,1,40.852759,-73.936636
+244,8 Avenue,181st St,A,,,,,,,,,,,Stair,1,0,1,40.850752,-73.93813
+245,8 Avenue,181st St,A,,,,,,,,,,,Stair,1,0,1,40.850778,-73.938472
+246,8 Avenue,181st St,A,,,,,,,,,,,Stair,1,0,1,40.850717,-73.938214
+247,8 Avenue,181st St,A,,,,,,,,,,,Stair,1,0,1,40.85087,-73.938537
+248,8 Avenue,190th St,A,,,,,,,,,,,Door,1,0,1,40.858899,-73.932702
+249,8 Avenue,190th St,A,,,,,,,,,,,Stair,1,0,1,40.858886,-73.934226
+250,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.745102,-73.998365
+251,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.745299,-73.998145
+252,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.746732,-73.997711
+253,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.746603,-73.997801
+254,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.745278,-73.998771
+255,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.745505,-73.998642
+256,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.746535,-73.997271
+257,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.746483,-73.997142
+258,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,0,0,1,40.74611,-73.998145
+259,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,0,0,1,40.745814,-73.997852
+260,8 Avenue,23rd St,C,E,,,,,,,,,,Stair,1,0,1,40.746427,-73.99735
+261,8 Avenue,34th St,A,C,E,,,,,,,,,Elevator,1,1,1,40.751996,73.993327
+262,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.75202,-73.993352
+263,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752161,-73.993109
+264,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752689,-73.992742
+265,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752796,-73.992669
+266,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752766,-73.992596
+267,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752877,-73.993244
+268,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.753053,-73.993256
+269,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.753032,-73.993188
+270,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752178,-73.993701
+271,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.752427,-73.993679
+272,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.751291,-73.993887
+273,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.751432,-73.993538
+274,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.751677,-73.994107
+275,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.751561,-73.994243
+276,8 Avenue,34th St,A,C,E,,,,,,,,,Stair,1,1,1,40.751539,-73.994181
+277,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Easement,1,1,1,40.757286,-73.989582
+278,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Easement,1,1,1,40.755989,-73.991049
+279,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.755801,-73.990576
+280,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.756101,-73.990887
+281,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.758567,-73.989053
+282,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.758401,-73.988673
+283,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.758685,-73.98899
+284,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,0,1,1,40.757929,-73.989547
+285,8 Avenue,42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,0,1,1,40.757463,-73.989984
+286,8 Avenue,50th St,C,E,,,,,,,,,,Easement,1,1,0,40.761968,-73.986662
+287,8 Avenue,50th St,C,E,,,,,,,,,,Easement,1,1,0,40.762312,-73.986378
+288,8 Avenue,50th St,C,E,,,,,,,,,,Easement,1,1,0,40.762452,-73.986299
+289,8 Avenue,50th St,C,E,,,,,,,,,,Elevator,1,1,0,40.761968,-73.986662
+290,8 Avenue,50th St,C,E,,,,,,,,,,Escalator,1,1,0,40.762312,-73.986378
+291,8 Avenue,50th St,C,E,,,,,,,,,,Stair,1,1,0,40.761741,-73.986924
+292,8 Avenue,50th St,C,E,,,,,,,,,,Stair,1,1,0,40.761691,-73.986805
+293,8 Avenue,50th St,C,E,,,,,,,,,,Stair,1,1,0,40.762085,-73.985829
+294,8 Avenue,50th St,C,E,,,,,,,,,,Stair,1,1,0,40.762216,-73.985757
+295,8 Avenue,50th St,C,E,,,,,,,,,,Stair,0,1,0,40.7629,-73.985412
+296,8 Avenue,59th St,A,B,C,D,1,,,,,,,Easement,1,1,1,40.766944,-73.982941
+297,8 Avenue,59th St,A,B,C,D,1,,,,,,,Easement,1,1,1,40.766488,-73.982708
+298,8 Avenue,59th St,A,B,C,D,1,,,,,,,Elevator,1,1,1,40.767667,-73.982408
+299,8 Avenue,59th St,A,B,C,D,1,,,,,,,Escalator,1,1,1,40.767677,-73.982526
+300,8 Avenue,59th St,A,B,C,D,1,,,,,,,Escalator,1,1,1,40.767659,-73.982542
+301,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.766725,-73.982563
+302,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.767643,-73.982563
+303,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.766745,-73.983408
+304,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.766416,-73.983301
+305,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.767367,-73.982137
+306,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.768649,-73.981184
+307,8 Avenue,59th St,A,B,C,D,1,,,,,,,Stair,1,1,1,40.768719,-73.981788
+308,8 Avenue,72nd St,B,C,,,,,,,,,,Stair,1,0,1,40.776217,-73.976247
+309,8 Avenue,72nd St,B,C,,,,,,,,,,Stair,1,0,1,40.776431,-73.975977
+310,8 Avenue,72nd St,B,C,,,,,,,,,,Stair,1,0,1,40.77494,-73.977144
+311,8 Avenue,81st St - Museum of Natural History,B,C,,,,,,,,,,Stair,1,0,1,40.781976,-73.972027
+312,8 Avenue,81st St - Museum of Natural History,B,C,,,,,,,,,,Stair,1,0,1,40.782254,-73.971741
+313,8 Avenue,81st St - Museum of Natural History,B,C,,,,,,,,,,Door,1,0,1,40.780895,-73.972918
+314,8 Avenue,81st St - Museum of Natural History,B,C,,,,,,,,,,Stair,1,0,1,40.780319,-73.973179
+315,8 Avenue,86th St,B,C,,,,,,,,,,Stair,1,0,1,40.785195,-73.969596
+316,8 Avenue,86th St,B,C,,,,,,,,,,Stair,1,0,1,40.785282,-73.969662
+317,8 Avenue,86th St,B,C,,,,,,,,,,Stair,1,0,1,40.78548,-73.969458
+318,8 Avenue,86th St,B,C,,,,,,,,,,Stair,1,0,1,40.786769,-73.968448
+319,8 Avenue,86th St,B,C,,,,,,,,,,Stair,0,0,1,40.786115,-73.969011
+320,8 Avenue,96th St,B,C,,,,,,,,,,Stair,1,0,1,40.791642,-73.965009
+321,8 Avenue,96th St,B,C,,,,,,,,,,Stair,1,0,1,40.792285,-73.964423
+322,8 Avenue,96th St,B,C,,,,,,,,,,Stair,1,0,1,40.792591,-73.964316
+323,8 Avenue,Broadway-Nassau,A,C,J,Z,2,3,4,5,,,,Easement,1,0,1,40.710692,-74.008428
+324,8 Avenue,Broadway-Nassau,A,C,J,Z,2,3,4,5,,,,Easement,1,0,1,40.710555,-74.008632
+325,8 Avenue,Canal St,A,C,E,,,,,,,,,Stair,1,0,1,40.720704,-74.004999
+326,8 Avenue,Canal St,A,C,E,,,,,,,,,Stair,1,0,1,40.720758,-74.005399
+327,8 Avenue,Canal St,A,C,E,,,,,,,,,Stair,1,0,1,40.721651,-74.005634
+328,8 Avenue,Canal St,A,C,E,,,,,,,,,Stair,1,0,1,40.721967,-74.005133
+329,8 Avenue,Canal St,A,C,E,,,,,,,,,Stair,1,0,1,40.71987,-74.005038
+330,8 Avenue,Cathedral Parkway-110th St,B,C,,,,,,,,,,Stair,1,0,1,40.800002,-73.958882
+331,8 Avenue,Cathedral Parkway-110th St,B,C,,,,,,,,,,Stair,1,0,1,40.800002,-73.958448
+332,8 Avenue,Cathedral Parkway-110th St,B,C,,,,,,,,,,Stair,1,0,1,40.800866,-73.958405
+333,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.713753,-74.009046
+334,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.714873,-74.008162
+335,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.714777,-74.007903
+336,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.715099,-74.007989
+337,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.714992,-74.007739
+338,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.713949,-74.00896
+339,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.714313,-74.008584
+340,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,1,0,1,40.714539,-74.008428
+341,8 Avenue,Chambers St,A,C,E,2,3,,,,,,,Stair,0,0,1,40.7142,-74.008357
+342,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Easement,1,0,1,40.865758,-73.927266
+343,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Easement,1,0,1,40.865744,-73.927172
+344,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Stair,1,0,1,40.865362,-73.928059
+345,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Stair,0,0,1,40.865296,-73.927411
+346,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Stair,0,0,1,40.865248,-73.927279
+347,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Stair,0,0,1,40.865342,-73.926964
+348,8 Avenue,Dyckman St-200th St,A,,,,,,,,,,,Stair,0,0,1,40.865446,-73.927035
+349,8 Avenue,High St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.699405,-73.991413
+350,8 Avenue,High St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.699112,-73.98892
+351,8 Avenue,High St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.699212,-73.988274
+352,8 Avenue,Inwood - 207th St,A,,,,,,,,,,,Elevator,1,1,1,40.867892,-73.921234
+353,8 Avenue,Inwood - 207th St,A,,,,,,,,,,,Stair,1,1,1,40.867799,-73.921431
+354,8 Avenue,Inwood - 207th St,A,,,,,,,,,,,Stair,1,1,1,40.867512,-73.92133
+355,8 Avenue,Inwood - 207th St,A,,,,,,,,,,,Stair,1,1,1,40.867653,-73.920949
+356,8 Avenue,Inwood - 207th St,A,,,,,,,,,,,Stair,1,1,1,40.868284,-73.919607
+357,8 Avenue,Inwood - 207th St,A,,,,,,,,,,,Stair,1,1,1,40.868036,-73.919284
+358,8 Avenue,Spring St,C,E,,,,,,,,,,Stair,1,0,1,40.725583,-74.003747
+359,8 Avenue,Spring St,C,E,,,,,,,,,,Stair,1,0,1,40.725595,-74.004326
+360,8 Avenue,Spring St,C,E,,,,,,,,,,Stair,1,0,1,40.726208,-74.00399
+361,8 Avenue,West 4th St,A,B,C,D,E,F,M,,,,,Elevator,1,1,1,40.731086,-74.001209
+362,8 Avenue,West 4th St,A,B,C,D,E,F,M,,,,,Stair,1,1,1,40.731133,-74.001534
+363,8 Avenue,West 4th St,A,B,C,D,E,F,M,,,,,Stair,1,1,1,40.731091,-74.001127
+364,8 Avenue,West 4th St,A,B,C,D,E,F,M,,,,,Stair,1,1,1,40.733067,-73.999728
+365,8 Avenue,West 4th St,A,B,C,D,E,F,M,,,,,Stair,1,1,1,40.733259,-73.999615
+366,8 Avenue,West 4th St,A,B,C,D,E,F,M,,,,,Stair,1,1,1,40.733072,-74.000192
+367,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.713333,-74.009033
+368,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.712681,-74.009891
+369,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.713286,-74.009511
+370,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.713036,-74.009245
+371,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.713435,-74.009292
+372,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.711793,-74.010165
+373,Brighton,Church Av,B,Q,,,,,,,,,,Door,1,0,1,40.651482,-73.962732
+374,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.71171,-74.010204
+375,8 Avenue,World Trade Center,A,C,E,2,3,,,,,,,Stair,1,1,1,40.712258,-74.010306
+376,Archer Av,Jamaica-Van Wyck,E,,,,,,,,,,,Elevator,1,0,1,40.701263,-73.816372
+377,Archer Av,Jamaica-Van Wyck,E,,,,,,,,,,,Stair,1,0,1,40.702731,-73.81727
+378,Archer Av,Jamaica-Van Wyck,E,,,,,,,,,,,Stair,1,0,1,40.701241,-73.816577
+379,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Elevator,1,1,1,40.702353,-73.799784
+380,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Escalator,1,1,1,40.701855,-73.80174
+381,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Escalator,1,1,1,40.702821,-73.799843
+382,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Escalator,1,1,1,40.702311,-73.799991
+383,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Stair,1,1,1,40.701886,-73.801754
+384,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Stair,1,1,1,40.702674,-73.799786
+385,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Stair,1,1,1,40.702324,-73.80001
+386,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Stair,1,1,1,40.702234,-73.801859
+387,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Stair,1,1,1,40.701874,-73.801747
+388,Archer Av,Parsons Blvd-Archer Av - Jamaica Center,E,J,Z,,,,,,,,,Stair,1,1,1,40.70164,-73.802478
+389,Archer Av,Sutphin Blvd-Archer Av - JFK,E,J,Z,,,,,,,,,Stair,1,1,1,40.700401,-73.807976
+390,Archer Av,Sutphin Blvd-Archer Av - JFK,E,J,Z,,,,,,,,,Stair,1,1,1,40.70081,-73.807923
+391,Archer Av,Sutphin Blvd-Archer Av - JFK,E,J,Z,,,,,,,,,Stair,1,1,1,40.700554,-73.807353
+392,Archer Av,Sutphin Blvd-Archer Av - JFK,E,J,Z,,,,,,,,,Stair,1,1,1,40.700872,-73.807673
+393,Astoria,30 Av-Grand Av,N,Q,,,,,,,,,,Stair,1,0,1,40.766787,-73.921629
+394,Astoria,30 Av-Grand Av,N,Q,,,,,,,,,,Stair,1,0,1,40.7667,-73.921406
+395,Astoria,30 Av-Grand Av,N,Q,,,,,,,,,,Stair,1,0,1,40.767052,-73.921409
+396,Astoria,30 Av-Grand Av,N,Q,,,,,,,,,,Stair,1,0,1,40.766963,-73.921192
+397,Astoria,36 Av-Washington Av,N,Q,,,,,,,,,,Stair,1,0,1,40.756478,-73.929993
+398,Astoria,36 Av-Washington Av,N,Q,,,,,,,,,,Stair,1,0,1,40.756379,-73.929766
+399,Astoria,36 Av-Washington Av,N,Q,,,,,,,,,,Stair,1,0,1,40.756796,-73.92974
+400,Astoria,39 Av-Beebe Av,N,Q,,,,,,,,,,Stair,1,0,1,40.752901,-73.932903
+401,Astoria,39 Av-Beebe Av,N,Q,,,,,,,,,,Stair,1,0,1,40.752491,-73.932936
+402,Astoria,Astoria Blvd-Hoyt Av,N,Q,,,,,,,,,,Stair,1,0,1,40.770313,-73.917978
+403,Astoria,Astoria Blvd-Hoyt Av,N,Q,,,,,,,,,,Stair,1,0,1,40.77017,-73.917755
+404,Astoria,Astoria Blvd-Hoyt Av,N,Q,,,,,,,,,,Stair,1,0,1,40.771009,-73.917167
+405,Astoria,Astoria Blvd-Hoyt Av,N,Q,,,,,,,,,,Stair,1,0,1,40.77087,-73.916935
+406,Astoria,Broadway,N,Q,,,,,,,,,,Stair,1,0,1,40.76188,-73.925638
+407,Astoria,Broadway,N,Q,,,,,,,,,,Stair,1,0,1,40.761773,-73.925399
+408,Astoria,Broadway,N,Q,,,,,,,,,,Stair,1,0,1,40.762217,-73.925349
+409,Astoria,Ditmars Blvd,N,Q,,,,,,,,,,Stair,1,0,1,40.775149,-73.912074
+410,Astoria,Ditmars Blvd,N,Q,,,,,,,,,,Stair,1,0,1,40.77481,-73.912151
+411,Astoria,Ditmars Blvd,N,Q,,,,,,,,,,Stair,1,0,1,40.775025,-73.911891
+412,Astoria,Ditmars Blvd,N,Q,,,,,,,,,,Stair,1,0,1,40.774938,-73.912337
+413,Brighton,7th Av,B,Q,,,,,,,,,,Stair,1,0,1,40.677365,-73.972788
+414,Brighton,7th Av,B,Q,,,,,,,,,,Stair,1,0,1,40.677324,-73.972212
+415,Brighton,Atlantic Av,B,Q,D,N,R,2,3,4,5,,,Easement,1,1,1,40.685222,-73.977628
+416,Brighton,Av H,B,Q,,,,,,,,,,Door,1,0,1,40.62993,-73.961477
+417,Brighton,Av H,B,Q,,,,,,,,,,Stair,0,0,1,40.629884,-73.961882
+418,Brighton,Av J,B,Q,,,,,,,,,,Door,1,0,1,40.62513,-73.960792
+419,Brighton,Av J,B,Q,,,,,,,,,,Stair,1,0,1,40.625307,-73.960969
+420,Brighton,Av J,B,Q,,,,,,,,,,Stair,0,0,1,40.625363,-73.960654
+421,Brighton,Av M,B,Q,,,,,,,,,,Door,1,0,1,40.617928,-73.959454
+422,Brighton,Av M,B,Q,,,,,,,,,,Door,0,0,1,40.61814,-73.95946
+423,Brighton,Av U,B,Q,,,,,,,,,,Door,1,0,1,40.598991,-73.955828
+424,Brighton,Beverly Rd,B,Q,,,,,,,,,,Door,1,0,1,40.644272,-73.964528
+425,Brighton,Brighton Beach,B,Q,,,,,,,,,,Escalator,1,0,1,40.577986,-73.960258
+426,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577931,-73.960524
+427,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577746,-73.960231
+428,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577697,-73.960438
+429,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577618,-73.961994
+430,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577656,-73.961792
+431,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577387,-73.961912
+432,Brighton,Brighton Beach,B,Q,,,,,,,,,,Stair,1,0,1,40.577425,-73.961719
+433,Brighton,Church Av,B,Q,,,,,,,,,,Door,1,0,1,40.649427,-73.963356
+434,Brighton,Cortelyou Rd,B,Q,,,,,,,,,,Door,1,0,1,40.641314,-73.963996
+435,Brighton,Kings Highway,B,Q,,,,,,,,,,Door,1,0,1,40.608835,-73.957769
+436,Brighton,Kings Highway,B,Q,,,,,,,,,,Door,1,0,1,40.609062,-73.957808
+437,Brighton,Kings Highway,B,Q,,,,,,,,,,Door,1,0,1,40.608319,-73.957352
+438,Brighton,Neck Rd,B,Q,,,,,,,,,,Door,1,0,1,40.59502,-73.95512
+439,Brighton,Newkirk Av,B,Q,,,,,,,,,,Door,1,0,1,40.635034,-73.962736
+440,Brighton,Ocean Parkway,Q,,,,,,,,,,,Stair,1,0,1,40.576423,-73.967894
+441,Brighton,Ocean Parkway,Q,,,,,,,,,,,Stair,1,0,1,40.576445,-73.967591
+442,Brighton,Ocean Parkway,Q,,,,,,,,,,,Stair,1,0,1,40.576209,-73.967875
+443,Brighton,Ocean Parkway,Q,,,,,,,,,,,Stair,1,0,1,40.576234,-73.967561
+444,Brighton,Ocean Parkway,Q,,,,,,,,,,,Stair,1,0,1,40.576507,-73.969445
+445,Brighton,Ocean Parkway,Q,,,,,,,,,,,Stair,1,0,1,40.576487,-73.969243
+446,Brighton,Parkside Av,B,Q,,,,,,,,,,Door,1,0,1,40.655221,-73.961516
+447,Brighton,Parkside Av,B,Q,,,,,,,,,,Stair,0,0,1,40.654251,-73.961909
+448,Brighton,Prospect Park,B,Q,FS,,,,,,,,,Door,1,1,1,40.660792,-73.962109
+449,Brighton,Prospect Park,B,Q,FS,,,,,,,,,Stair,1,1,1,40.662482,-73.962285
+450,Brighton,Prospect Park,B,Q,FS,,,,,,,,,Stair,1,1,1,40.662727,-73.962249
+451,Brighton,Sheepshead Bay,B,Q,,,,,,,,,,Door,1,0,1,40.587302,-73.954224
+452,Brighton,Sheepshead Bay,B,Q,,,,,,,,,,Door,1,0,1,40.585734,-73.954371
+453,Brighton,Stillwell Av,D,F,N,Q,,,,,,,,Stair,1,1,1,40.576241,-73.981077
+454,Brighton,West 8th St,F,Q,,,,,,,,,,Ramp,1,0,1,40.575752,-73.97674
+455,Brighton,West 8th St,F,Q,,,,,,,,,,Stair,1,0,1,40.576464,-73.974862
+456,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.74108,-73.989083
+457,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.741111,-73.98892
+458,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.741378,-73.988895
+459,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.741539,-73.988989
+460,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.740643,-73.989217
+461,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.741208,-73.989639
+462,Broadway,23rd St,N,R,,,,,,,,,,Stair,1,0,0,40.741913,-73.989428
+463,Broadway,23rd St,N,R,,,,,,,,,,Stair,0,0,0,40.740758,-73.989632
+464,Broadway,28th St,N,R,,,,,,,,,,Stair,1,0,0,40.745089,-73.988472
+465,Broadway,28th St,N,R,,,,,,,,,,Stair,1,0,0,40.745299,-73.988579
+466,Broadway,28th St,N,R,,,,,,,,,,Stair,1,0,0,40.745281,-73.988923
+467,Broadway,28th St,N,R,,,,,,,,,,Stair,1,0,0,40.745488,-73.98901
+468,Broadway,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.74959,-73.98762
+469,Broadway,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.749891,-73.987495
+470,Broadway,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.748294,-73.987976
+471,Broadway,34th St,B,D,F,M,N,Q,R,,,,,Stair,1,1,1,40.748477,-73.988288
+472,Broadway,49th St,N,Q,R,,,,,,,,,Stair,1,1,0,40.760486,-73.983974
+473,Broadway,49th St,N,Q,R,,,,,,,,,Stair,1,1,0,40.760621,-73.983904
+474,Broadway,49th St,N,Q,R,,,,,,,,,Easement,1,1,0,40.760454,-73.983388
+475,Broadway,49th St,N,Q,R,,,,,,,,,Easement,1,1,0,40.75903,-73.984412
+476,Broadway,49th St,N,Q,R,,,,,,,,,Easement,1,1,0,40.759513,-73.984884
+477,Broadway,49th St,N,Q,R,,,,,,,,,Easement,1,1,0,40.759384,-73.984709
+478,Broadway,49th St,N,Q,R,,,,,,,,,Stair,1,1,0,40.760297,-73.983567
+479,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.765365,-73.980341
+480,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.765298,-73.980033
+481,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.765796,-73.980012
+482,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.765639,-73.979764
+483,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.764258,-73.981278
+484,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.764057,-73.980803
+485,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.764377,-73.981167
+486,Broadway,57th St,N,Q,R,,,,,,,,,Stair,1,0,1,40.764179,-73.980683
+487,Broadway,5th Av,N,Q,R,,,,,,,,,Stair,1,0,1,40.765156,-73.972501
+488,Broadway,5th Av,N,Q,R,,,,,,,,,Stair,1,0,1,40.764728,-73.972396
+489,Broadway,5th Av,N,Q,R,,,,,,,,,Stair,1,0,1,40.764849,-73.972306
+490,Broadway,5th Av,N,Q,R,,,,,,,,,Stair,1,0,1,40.764657,-73.972229
+491,Broadway,5th Av,N,Q,R,,,,,,,,,Easement,1,0,1,40.764599,-73.974228
+492,Broadway,5th Av,N,Q,R,,,,,,,,,Stair,1,0,1,40.764935,-73.974191
+493,Broadway,5th Av,N,Q,R,,,,,,,,,Stair,1,0,1,40.764859,-73.973998
+494,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.730477,-73.992286
+495,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.730578,-73.992216
+496,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.729678,-73.993051
+497,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.730642,-73.992737
+498,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.730592,-73.99262
+499,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.730716,-73.992517
+500,Broadway,8th St,N,R,,,,,,,,,,Stair,1,0,0,40.730773,-73.992641
+501,Broadway,8th St,N,R,,,,,,,,,,Stair,0,0,0,40.729778,-73.993262
+502,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.719585,-74.00193
+503,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.71966,-74.002019
+504,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.719408,-74.002158
+505,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.71946,-74.002236
+506,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.719498,-74.001606
+507,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.719218,-74.00185
+508,Broadway,Canal St (UL),J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.719166,-74.001774
+509,Broadway,City Hall,R,,,,,,,,,,,Stair,1,0,1,40.71311,-74.007045
+510,Broadway,City Hall,R,,,,,,,,,,,Stair,1,0,1,40.713437,-74.00676
+511,Broadway,City Hall,R,,,,,,,,,,,Stair,1,0,1,40.713521,-74.006697
+512,Broadway,Cortlandt St,R,,,,,,,,,,,Stair,0,0,1,40.710871,-74.010767
+513,Broadway,Cortlandt St,R,,,,,,,,,,,Stair,0,0,1,40.711065,-74.010644
+514,Broadway,Cortlandt St,R,,,,,,,,,,,Easement,1,0,1,40.710201,-74.011198
+515,Broadway,Cortlandt St,R,,,,,,,,,,,Stair,1,0,1,40.710435,-74.011066
+516,Broadway,Court St,R,2,3,4,5,,,,,,,Stair,1,0,1,40.694416,-73.992619
+517,Broadway,Court St,R,2,3,4,5,,,,,,,Stair,1,0,1,40.694232,-73.992635
+518,Broadway,Court St,R,2,3,4,5,,,,,,,Stair,1,0,1,40.694475,-73.99283
+519,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.692114,-73.986107
+520,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.692258,-73.986114
+521,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.692052,-73.986191
+522,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.692359,-73.986181
+523,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.69198,-73.98519
+524,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.692315,-73.985172
+525,Broadway,Lawrence St,A,C,F,R,,,,,,,,Stair,1,0,1,40.692031,-73.985395
+526,Broadway,Lexington Av,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762092,-73.96634
+527,Broadway,Lexington Av,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762353,-73.966155
+528,Broadway,Lexington Av,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.761996,-73.966105
+529,Broadway,Lexington Av,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762255,-73.965918
+530,Broadway,Prince St,N,R,,,,,,,,,,Stair,1,0,0,40.724124,-73.997686
+531,Broadway,Prince St,N,R,,,,,,,,,,Stair,1,0,0,40.72422,-73.997633
+532,Broadway,Prince St,N,R,,,,,,,,,,Stair,1,0,0,40.72426,-73.997957
+533,Broadway,Prince St,N,R,,,,,,,,,,Stair,1,0,0,40.724344,-73.997875
+534,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.707647,-74.012924
+535,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.707902,-74.012774
+536,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.708028,-74.012696
+537,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.706345,-74.014
+538,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.707495,-74.013273
+539,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.707659,-74.013166
+540,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.70795,-74.012963
+541,Broadway,Rector St,R,,,,,,,,,,,Stair,1,0,0,40.708083,-74.012863
+542,Broadway,Rector St,R,,,,,,,,,,,Stair,0,0,0,40.707225,-74.013454
+543,Broadway,Times Square-42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.754172,-73.98668
+544,Broadway,Times Square-42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.754335,-73.987097
+545,Broadway,Times Square-42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.754301,-73.986623
+546,Broadway,Times Square-42nd St,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.754507,-73.987108
+547,Broadway,Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,1,1,40.735278,-73.991058
+548,Broadway,Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,1,1,40.736339,-73.990603
+549,Broadway,Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,1,1,40.736523,-73.990447
+550,Broadway,Union Square,L,N,Q,R,4,5,6,,,,,Stair,0,1,1,40.735311,-73.990265
+551,Broadway,Whitehall St,R,1,,,,,,,,,,Stair,1,0,1,40.701938,-74.012588
+552,Broadway,Whitehall St,R,1,,,,,,,,,,Stair,1,0,1,40.702108,-74.012642
+553,Broadway,Whitehall St,R,1,,,,,,,,,,Stair,1,0,1,40.702108,-74.012642
+554,Broadway,Whitehall St,R,1,,,,,,,,,,Stair,1,0,1,40.704015,-74.013284
+555,Broadway,Whitehall St,R,1,,,,,,,,,,Stair,1,0,1,40.704114,-74.013
+556,Broadway,Whitehall St,R,1,,,,,,,,,,Stair,1,0,1,40.704096,-74.013293
+557,Broadway Jamaica,104th St-102nd St,J,Z,,,,,,,,,,Stair,1,0,1,40.695033,-73.843298
+558,Broadway Jamaica,104th St-102nd St,J,Z,,,,,,,,,,Stair,1,0,1,40.695267,-73.843223
+559,Broadway Jamaica,111th St,J,,,,,,,,,,,Stair,1,0,1,40.696771,-73.837042
+560,Broadway Jamaica,111th St,J,,,,,,,,,,,Stair,1,0,1,40.697055,-73.837156
+561,Broadway Jamaica,121st St,J,Z,,,,,,,,,,Stair,1,0,1,40.700254,-73.829332
+562,Broadway Jamaica,121st St,J,Z,,,,,,,,,,Stair,1,0,1,40.70052,-73.829231
+563,Broadway Jamaica,121st St,J,Z,,,,,,,,,,Stair,1,0,1,40.700808,-73.82739
+564,Broadway Jamaica,121st St,J,Z,,,,,,,,,,Stair,0,0,1,40.700596,-73.827239
+565,Broadway Jamaica,Alabama Av,J,,,,,,,,,,,Stair,1,0,1,40.676755,-73.899834
+566,Broadway Jamaica,Alabama Av,J,,,,,,,,,,,Stair,1,0,1,40.676803,-73.89951
+567,Broadway Jamaica,Chauncey St,J,Z,,,,,,,,,,Stair,1,0,1,40.683313,-73.911334
+568,Broadway Jamaica,Chauncey St,J,Z,,,,,,,,,,Stair,1,0,1,40.683417,-73.911242
+569,Broadway Jamaica,Cleveland St,J,,,,,,,,,,,Stair,1,0,1,40.679656,-73.885731
+570,Broadway Jamaica,Cleveland St,J,,,,,,,,,,,Stair,1,0,1,40.67953,-73.885716
+571,Broadway Jamaica,Crescent St,J,Z,,,,,,,,,,Stair,1,0,1,40.683478,-73.872548
+572,Broadway Jamaica,Crescent St,J,Z,,,,,,,,,,Stair,1,0,1,40.683588,-73.8726
+573,Broadway Jamaica,Cypress Hills,J,,,,,,,,,,,Stair,1,0,1,40.690142,-73.87163
+574,Broadway Jamaica,Cypress Hills,J,,,,,,,,,,,Stair,1,0,1,40.68947,-73.873449
+575,Broadway Jamaica,Cypress Hills,J,,,,,,,,,,,Stair,1,0,1,40.689596,-73.873555
+576,Broadway Jamaica,Elderts Lane-75th St,J,Z,,,,,,,,,,Stair,1,0,1,40.691285,-73.866425
+577,Broadway Jamaica,Elderts Lane-75th St,J,Z,,,,,,,,,,Stair,1,0,1,40.691479,-73.86661
+578,Broadway Jamaica,Flushing Av,J,M,,,,,,,,,,Elevator,1,1,1,40.700629,-73.941995
+579,Broadway Jamaica,Flushing Av,J,M,,,,,,,,,,Elevator,1,1,1,40.70072,-73.941672
+580,Broadway Jamaica,Flushing Av,J,M,,,,,,,,,,Stair,1,1,1,40.700634,-73.942173
+581,Broadway Jamaica,Flushing Av,J,M,,,,,,,,,,Stair,1,1,1,40.700847,-73.94171
+582,Broadway Jamaica,Forest Parkway-85th St,J,,,,,,,,,,,Stair,1,0,1,40.692381,-73.858975
+583,Broadway Jamaica,Forest Parkway-85th St,J,,,,,,,,,,,Stair,1,0,1,40.692666,-73.859098
+584,Broadway Jamaica,Gates Av,J,Z,,,,,,,,,,Stair,1,0,1,40.69003,-73.923161
+585,Broadway Jamaica,Gates Av,J,Z,,,,,,,,,,Stair,1,0,1,40.690142,-73.923062
+586,Broadway Jamaica,Halsey St,J,,,,,,,,,,,Stair,1,0,1,40.685847,-73.915807
+587,Broadway Jamaica,Halsey St,J,,,,,,,,,,,Stair,1,0,1,40.685946,-73.915713
+588,Broadway Jamaica,Hewes St,J,M,,,,,,,,,,Stair,1,0,1,40.707117,-73.95437
+589,Broadway Jamaica,Hewes St,J,M,,,,,,,,,,Stair,1,0,1,40.707248,-73.954326
+590,Broadway Jamaica,Kosciusko St,J,,,,,,,,,,,Stair,1,0,1,40.69293,-73.928257
+591,Broadway Jamaica,Kosciusko St,J,,,,,,,,,,,Stair,1,0,1,40.692929,-73.92794
+592,Broadway Jamaica,Lorimer St,J,M,,,,,,,,,,Stair,1,0,1,40.704279,-73.948324
+593,Broadway Jamaica,Lorimer St,J,M,,,,,,,,,,Stair,1,0,1,40.704396,-73.948223
+594,Broadway Jamaica,Lorimer St,J,M,,,,,,,,,,Stair,0,0,1,40.703454,-73.946536
+595,Broadway Jamaica,Lorimer St,J,M,,,,,,,,,,Stair,0,0,1,40.703321,-73.946613
+596,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Elevator,1,1,0,40.708565,-73.957893
+597,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Stair,1,1,0,40.708409,-73.957689
+598,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Stair,1,1,0,40.708529,-73.958048
+599,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Elevator,1,1,0,40.708293,-73.958044
+600,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Stair,1,1,0,40.708788,-73.958826
+601,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Stair,1,1,0,40.708271,-73.957749
+602,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Stair,1,1,0,40.708403,-73.958124
+603,Broadway Jamaica,Marcy Av,J,M,Z,,,,,,,,,Stair,1,1,0,40.708681,-73.958927
+604,Broadway Jamaica,Myrtle Av,J,M,Z,,,,,,,,,Stair,1,0,1,40.696893,-73.935461
+605,Broadway Jamaica,Myrtle Av,J,M,Z,,,,,,,,,Stair,1,0,1,40.696987,-73.935559
+606,Broadway Jamaica,Norwood Av,J,Z,,,,,,,,,,Stair,1,0,1,40.681757,-73.879007
+607,Broadway Jamaica,Norwood Av,J,Z,,,,,,,,,,Stair,1,0,1,40.681643,-73.878984
+608,Broadway Jamaica,Van Siclen Av,J,Z,,,,,,,,,,Stair,1,0,1,40.677847,-73.891711
+609,Broadway Jamaica,Van Siclen Av,J,Z,,,,,,,,,,Stair,1,0,1,40.677864,-73.891566
+610,Broadway Jamaica,Woodhaven Blvd,J,Z,,,,,,,,,,Stair,1,0,1,40.693451,-73.852556
+611,Broadway Jamaica,Woodhaven Blvd,J,Z,,,,,,,,,,Stair,1,0,1,40.693563,-73.852608
+612,Broadway Jamaica,Woodhaven Blvd,J,Z,,,,,,,,,,Stair,1,0,1,40.694077,-73.850476
+613,Broadway-7th Ave,103rd St,1,,,,,,,,,,,Stair,1,0,1,40.799282,-73.968679
+614,Broadway-7th Ave,103rd St,1,,,,,,,,,,,Stair,1,0,1,40.799142,-73.968314
+615,Broadway-7th Ave,103rd St,1,,,,,,,,,,,Stair,1,0,1,40.79941,-73.968612
+616,Broadway-7th Ave,103rd St,1,,,,,,,,,,,Stair,1,0,1,40.799223,-73.968271
+617,Broadway-7th Ave,103rd St,1,,,,,,,,,,,Stair,0,0,1,40.799584,-73.968091
+618,Broadway-7th Ave,116th St-Columbia University,1,,,,,,,,,,,Stair,1,0,1,40.808251,-73.963955
+619,Broadway-7th Ave,116th St-Columbia University,1,,,,,,,,,,,Stair,1,0,1,40.808099,-73.963603
+620,Broadway-7th Ave,116th St-Columbia University,1,,,,,,,,,,,Stair,1,0,1,40.8084,-73.963845
+621,Broadway-7th Ave,116th St-Columbia University,1,,,,,,,,,,,Stair,1,0,1,40.808245,-73.963495
+622,Broadway-7th Ave,116th St-Columbia University,1,,,,,,,,,,,Stair,0,0,1,40.807535,-73.964013
+623,Broadway-7th Ave,125th St,1,,,,,,,,,,,Escalator,1,0,1,40.815143,-73.958439
+624,Broadway-7th Ave,125th St,1,,,,,,,,,,,Escalator,1,0,1,40.815688,-73.958554
+625,Broadway-7th Ave,125th St,1,,,,,,,,,,,Escalator,1,0,1,40.815307,-73.958826
+626,Broadway-7th Ave,125th St,1,,,,,,,,,,,Stair,1,0,1,40.81523,-73.958366
+627,Broadway-7th Ave,137th St-City College,1,,,,,,,,,,,Stair,1,0,0,40.821584,-73.954223
+628,Broadway-7th Ave,137th St-City College,1,,,,,,,,,,,Stair,1,0,0,40.821348,-73.954408
+629,Broadway-7th Ave,137th St-City College,1,,,,,,,,,,,Stair,1,0,0,40.821454,-73.953856
+630,Broadway-7th Ave,137th St-City College,1,,,,,,,,,,,Stair,1,0,0,40.821391,-73.953906
+631,Broadway-7th Ave,145th St,1,,,,,,,,,,,Stair,1,0,0,40.826657,-73.95052
+632,Broadway-7th Ave,145th St,1,,,,,,,,,,,Stair,1,0,0,40.826199,-73.950392
+633,Broadway-7th Ave,145th St,1,,,,,,,,,,,Stair,1,0,0,40.826513,-73.950162
+634,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738484,-73.999914
+635,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738775,-73.999711
+636,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738585,-73.999405
+637,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738358,-73.999656
+638,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.738013,-74.000329
+639,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737388,-74.000815
+640,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737197,-74.0004
+641,Broadway-7th Ave,14th St,F,L,M,1,2,3,,,,,,Stair,0,0,1,40.737846,-73.99993
+642,Broadway-7th Ave,157th St,1,,,,,,,,,,,Stair,1,0,0,40.834268,-73.945183
+643,Broadway-7th Ave,157th St,1,,,,,,,,,,,Stair,1,0,0,40.834221,-73.945073
+644,Broadway-7th Ave,157th St,1,,,,,,,,,,,Stair,1,0,0,40.83386,-73.94462
+645,Broadway-7th Ave,157th St,1,,,,,,,,,,,Stair,1,0,0,40.833832,-73.944753
+646,Broadway-7th Ave,168th St,A,C,1,,,,,,,,,Stair,1,0,1,40.840859,-73.940209
+647,Broadway-7th Ave,168th St,A,C,1,,,,,,,,,Stair,1,0,1,40.841024,-73.940083
+648,Broadway-7th Ave,168th St,A,C,1,,,,,,,,,Stair,0,0,1,40.840717,-73.93972
+649,Broadway-7th Ave,181st St,1,,,,,,,,,,,Easement,1,0,1,40.849435,-73.933428
+650,Broadway-7th Ave,181st St,1,,,,,,,,,,,Stair,1,0,1,40.849098,-73.933747
+651,Broadway-7th Ave,18th St,1,,,,,,,,,,,Stair,1,0,0,40.74092,-73.997698
+652,Broadway-7th Ave,18th St,1,,,,,,,,,,,Stair,1,0,0,40.741015,-73.99758
+653,Broadway-7th Ave,18th St,1,,,,,,,,,,,Stair,1,0,0,40.741081,-73.998105
+654,Broadway-7th Ave,18th St,1,,,,,,,,,,,Stair,1,0,0,40.741206,-73.998035
+655,Broadway-7th Ave,18th St,1,,,,,,,,,,,Stair,0,0,0,40.741783,-73.997557
+656,Broadway-7th Ave,18th St,1,,,,,,,,,,,Stair,0,0,0,40.741617,-73.997197
+657,Broadway-7th Ave,191st St,1,,,,,,,,,,,Door,1,0,1,40.855374,-73.929536
+658,Broadway-7th Ave,191st St,1,,,,,,,,,,,Ramp,1,0,1,40.856413,-73.932605
+659,Broadway-7th Ave,207th St,1,,,,,,,,,,,Stair,1,0,0,40.864745,-73.918864
+660,Broadway-7th Ave,207th St,1,,,,,,,,,,,Stair,1,0,0,40.864283,-73.919222
+661,Broadway-7th Ave,207th St,1,,,,,,,,,,,Stair,1,0,0,40.86423,-73.918951
+662,Broadway-7th Ave,207th St,1,,,,,,,,,,,Stair,0,0,0,40.864599,-73.918681
+663,Broadway-7th Ave,215th St,1,,,,,,,,,,,Stair,1,0,0,40.869412,-73.915455
+664,Broadway-7th Ave,215th St,1,,,,,,,,,,,Stair,1,0,0,40.869793,-73.91517
+665,Broadway-7th Ave,215th St,1,,,,,,,,,,,Stair,1,0,0,40.869315,-73.915216
+666,Broadway-7th Ave,215th St,1,,,,,,,,,,,Stair,0,0,0,40.869729,-73.914954
+667,Broadway-7th Ave,231st St,1,,,,,,,,,,,Stair,1,1,0,40.878775,-73.905024
+668,Broadway-7th Ave,231st St,1,,,,,,,,,,,Stair,1,1,0,40.879168,-73.904751
+669,Broadway-7th Ave,231st St,1,,,,,,,,,,,Stair,1,1,0,40.878694,-73.904821
+670,Broadway-7th Ave,231st St,1,,,,,,,,,,,Stair,1,1,0,40.879091,-73.904538
+671,Broadway-7th Ave,238th St,1,,,,,,,,,,,Stair,1,0,0,40.884813,-73.900923
+672,Broadway-7th Ave,238th St,1,,,,,,,,,,,Stair,0,0,0,40.884868,-73.900598
+673,Broadway-7th Ave,238th St,1,,,,,,,,,,,Stair,0,0,0,40.885226,-73.900439
+674,Broadway-7th Ave,23rd St,1,,,,,,,,,,,Stair,1,0,0,40.74391,-73.995608
+675,Broadway-7th Ave,23rd St,1,,,,,,,,,,,Stair,1,0,0,40.74412,-73.995348
+676,Broadway-7th Ave,23rd St,1,,,,,,,,,,,Stair,1,0,0,40.744017,-73.995901
+677,Broadway-7th Ave,23rd St,1,,,,,,,,,,,Stair,1,0,0,40.744313,-73.995811
+678,Broadway-7th Ave,28th St,1,,,,,,,,,,,Stair,1,0,0,40.747264,-73.993611
+679,Broadway-7th Ave,28th St,1,,,,,,,,,,,Stair,1,0,0,40.747392,-73.99351
+680,Broadway-7th Ave,28th St,1,,,,,,,,,,,Stair,0,0,0,40.746787,-73.993955
+681,Broadway-7th Ave,28th St,1,,,,,,,,,,,Stair,0,0,0,40.746594,-73.993555
+682,Broadway-7th Ave,28th St,1,,,,,,,,,,,Stair,1,0,0,40.747036,-73.993138
+683,Broadway-7th Ave,28th St,1,,,,,,,,,,,Stair,1,0,0,40.747216,-73.993121
+684,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Easement,1,1,1,40.751046,-73.991271
+685,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Easement,1,1,1,40.749656,-73.99113
+686,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Easement,1,1,1,40.750077,-73.99082
+687,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Easement,1,1,1,40.750283,-73.99065
+688,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Stair,1,1,1,40.750313,-73.990854
+689,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Stair,1,1,1,40.750476,-73.991254
+690,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Stair,1,1,1,40.750982,-73.990899
+691,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Stair,1,1,1,40.751187,-73.990791
+692,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Easement,1,1,1,40.74979,-73.991721
+693,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Easement,1,1,1,40.75081,-73.990481
+694,Broadway-7th Ave,34th St,1,2,3,,,,,,,,,Stair,1,1,1,40.75102,-73.990323
+695,Broadway-7th Ave,50th St,1,,,,,,,,,,,Stair,1,0,0,40.761111,-73.983436
+696,Broadway-7th Ave,50th St,1,,,,,,,,,,,Stair,1,0,0,40.761282,-73.983853
+697,Broadway-7th Ave,50th St,1,,,,,,,,,,,Stair,1,0,0,40.761212,-73.983357
+698,Broadway-7th Ave,50th St,1,,,,,,,,,,,Stair,1,0,0,40.761367,-73.983782
+699,Broadway-7th Ave,50th St,1,,,,,,,,,,,Easement,1,0,0,40.761432,-73.98437
+700,Broadway-7th Ave,50th St,1,,,,,,,,,,,Easement,1,0,0,40.761561,-73.984154
+701,Broadway-7th Ave,59th St-Columbus Circle,A,B,C,D,1,,,,,,,Stair,1,1,1,40.768777,-73.982106
+702,Broadway-7th Ave,59th St-Columbus Circle,A,B,C,D,1,,,,,,,Stair,1,1,1,40.769227,-73.9824
+703,Broadway-7th Ave,59th St-Columbus Circle,A,B,C,D,1,,,,,,,Stair,1,1,1,40.769365,-73.982392
+704,Broadway-7th Ave,59th St-Columbus Circle,A,B,C,D,1,,,,,,,Stair,0,1,1,40.767654,-73.981423
+705,Broadway-7th Ave,59th St-Columbus Circle,A,B,C,D,1,,,,,,,Stair,0,1,1,40.767642,-73.981235
+706,Broadway-7th Ave,66th St-Lincoln Center,1,,,,,,,,,,,Elevator,1,1,1,40.773738,-73.982448
+707,Broadway-7th Ave,66th St-Lincoln Center,1,,,,,,,,,,,Stair,1,1,1,40.773829,-73.982433
+708,Broadway-7th Ave,66th St-Lincoln Center,1,,,,,,,,,,,Stair,1,1,1,40.773576,-73.982425
+709,Broadway-7th Ave,66th St-Lincoln Center,1,,,,,,,,,,,Elevator,1,1,1,40.773536,-73.982006
+710,Broadway-7th Ave,66th St-Lincoln Center,1,,,,,,,,,,,Stair,1,1,1,40.773457,-73.982004
+711,Broadway-7th Ave,66th St-Lincoln Center,1,,,,,,,,,,,Stair,1,1,1,40.773682,-73.982015
+712,Broadway-7th Ave,72nd St,1,2,3,,,,,,,,,Door,1,1,1,40.779146,-73.981822
+713,Broadway-7th Ave,72nd St,1,2,3,,,,,,,,,Door,1,1,1,40.778875,-73.981877
+714,Broadway-7th Ave,72nd St,1,2,3,,,,,,,,,Door,1,1,1,40.778585,-73.981923
+715,Broadway-7th Ave,72nd St,1,2,3,,,,,,,,,Door,0,1,1,40.778437,-73.981947
+716,Broadway-7th Ave,79th St,1,,,,,,,,,,,Stair,1,0,0,40.784066,-73.980051
+717,Broadway-7th Ave,79th St,1,,,,,,,,,,,Stair,1,0,0,40.783765,-73.980274
+718,Broadway-7th Ave,79th St,1,,,,,,,,,,,Stair,1,0,0,40.78362,-73.97991
+719,Broadway-7th Ave,79th St,1,,,,,,,,,,,Stair,1,0,0,40.783985,-73.979662
+720,Broadway-7th Ave,86th St,1,,,,,,,,,,,Stair,1,0,0,40.788349,-73.976935
+721,Broadway-7th Ave,86th St,1,,,,,,,,,,,Stair,1,0,0,40.788515,-73.976718
+722,Broadway-7th Ave,86th St,1,,,,,,,,,,,Stair,1,0,0,40.788073,-73.976288
+723,Broadway-7th Ave,86th St,1,,,,,,,,,,,Stair,1,0,0,40.788272,-73.976083
+724,Broadway-7th Ave,86th St,1,,,,,,,,,,,Stair,1,0,0,40.78902,-73.97633
+725,Broadway-7th Ave,96th St,1,2,3,,,,,,,,,Door,1,1,1,40.794329,-73.972042
+726,Broadway-7th Ave,96th St,1,2,3,,,,,,,,,Stair,1,1,1,40.79307,-73.973174
+727,Broadway-7th Ave,96th St,1,2,3,,,,,,,,,Stair,1,1,1,40.792923,-73.972824
+728,Broadway-7th Ave,96th St,1,2,3,,,,,,,,,Stair,1,1,1,40.793209,-73.973074
+729,Broadway-7th Ave,96th St,1,2,3,,,,,,,,,Stair,1,1,1,40.793065,-73.972722
+730,Broadway-7th Ave,96th St,1,2,3,,,,,,,,,Door,0,1,1,40.794611,-73.972053
+731,Broadway-7th Ave,Canal St,1,,,,,,,,,,,Stair,1,0,0,40.722569,-74.00608
+732,Broadway-7th Ave,Canal St,1,,,,,,,,,,,Stair,1,0,0,40.722497,-74.005994
+733,Broadway-7th Ave,Canal St,1,,,,,,,,,,,Stair,1,0,0,40.722932,-74.00662
+734,Broadway-7th Ave,Canal St,1,,,,,,,,,,,Stair,1,0,0,40.722878,-74.006518
+735,Broadway-7th Ave,Cathedral Parkway-110th St,1,,,,,,,,,,,Stair,1,0,0,40.80439,-73.966786
+736,Broadway-7th Ave,Cathedral Parkway-110th St,1,,,,,,,,,,,Stair,1,0,0,40.803926,-73.966647
+737,Broadway-7th Ave,Cathedral Parkway-110th St,1,,,,,,,,,,,Stair,1,0,0,40.804257,-73.966422
+738,Broadway-7th Ave,Chambers St,1,2,3,,,,,,,,,Stair,1,1,1,40.715444,-74.009453
+739,Broadway-7th Ave,Chambers St,1,2,3,,,,,,,,,Stair,1,1,1,40.715349,-74.009211
+740,Broadway-7th Ave,Chambers St,1,2,3,,,,,,,,,Stair,1,1,1,40.715736,-74.009328
+741,Broadway-7th Ave,Chambers St,1,2,3,,,,,,,,,Stair,1,1,1,40.715576,-74.009031
+742,Broadway-7th Ave,Chambers St,1,2,3,,,,,,,,,Stair,1,1,1,40.715539,-74.009427
+743,Broadway-7th Ave,Christopher St,1,,,,,,,,,,,Stair,1,0,0,40.733402,-74.002748
+744,Broadway-7th Ave,Christopher St,1,,,,,,,,,,,Stair,1,0,0,40.733515,-74.003147
+745,Broadway-7th Ave,Christopher St,1,,,,,,,,,,,Stair,1,0,0,40.733467,-74.003076
+746,Broadway-7th Ave,Christopher St,1,,,,,,,,,,,Stair,1,0,0,40.733634,-74.003123
+747,Broadway-7th Ave,Christopher St,1,,,,,,,,,,,Stair,1,0,0,40.733652,-74.003006
+748,Broadway-7th Ave,Dyckman St,1,,,,,,,,,,,Stair,1,0,1,40.861183,-73.92511
+749,Broadway-7th Ave,Dyckman St,1,,,,,,,,,,,Stair,1,0,1,40.861187,-73.925078
+750,Broadway-7th Ave,Franklin St,1,,,,,,,,,,,Stair,1,0,0,40.719001,-74.006675
+751,Broadway-7th Ave,Franklin St,1,,,,,,,,,,,Stair,0,0,0,40.719918,-74.00662
+752,Broadway-7th Ave,Franklin St,1,,,,,,,,,,,Stair,1,0,0,40.718965,-74.007121
+753,Broadway-7th Ave,Franklin St,1,,,,,,,,,,,Stair,1,0,0,40.719251,-74.007058
+754,Broadway-7th Ave,Franklin St,1,,,,,,,,,,,Stair,0,0,0,40.719888,-74.006925
+755,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.728472,-74.005188
+756,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.728656,-74.005086
+757,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.727739,-74.005305
+758,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.727989,-74.005258
+759,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.72784,-74.005681
+760,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.727983,-74.00565
+761,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.728561,-74.00554
+762,Broadway-7th Ave,Houston St,1,,,,,,,,,,,Stair,1,0,0,40.728686,-74.005517
+763,Broadway-7th Ave,Marble Hill-225th St,1,,,,,,,,,,,Stair,1,0,0,40.874437,-73.910529
+764,Broadway-7th Ave,Marble Hill-225th St,1,,,,,,,,,,,Stair,1,0,0,40.874308,-73.909795
+765,Broadway-7th Ave,Rector St,1,,,,,,,,,,,Stair,1,0,0,40.708107,-74.013445
+766,Broadway-7th Ave,Rector St,1,,,,,,,,,,,Stair,1,0,0,40.706493,-74.014319
+767,Broadway-7th Ave,Rector St,1,,,,,,,,,,,Stair,1,0,0,40.706527,-74.014144
+768,Broadway-7th Ave,Rector St,1,,,,,,,,,,,Stair,1,0,0,40.706597,-74.014115
+769,Broadway-7th Ave,Rector St,1,,,,,,,,,,,Stair,1,0,0,40.707564,-74.013853
+770,Broadway-7th Ave,Rector St,1,,,,,,,,,,,Stair,0,0,0,40.708191,-74.013582
+771,Broadway-7th Ave,South Ferry,R,1,,,,,,,,,,Elevator,1,1,1,40.702033,-74.013149
+772,Broadway-7th Ave,South Ferry,R,1,,,,,,,,,,Elevator,1,1,1,40.702033,-74.013149
+773,Broadway-7th Ave,South Ferry,R,1,,,,,,,,,,Escalator,1,1,1,40.701961,-74.013397
+774,Broadway-7th Ave,South Ferry,R,1,,,,,,,,,,Escalator,1,1,1,40.701961,-74.013397
+775,Broadway-7th Ave,South Ferry,R,1,,,,,,,,,,Stair,0,1,1,40.701313,-74.013479
+776,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Easement,1,1,1,40.756241,-73.987133
+777,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.756042,-73.987242
+778,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Easement,1,1,1,40.754691,-73.988067
+779,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.754568,-73.987827
+780,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.755554,-73.987679
+781,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.755575,-73.986311
+782,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Easement,1,1,1,40.755747,-73.986875
+783,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.755248,-73.987362
+784,Broadway-7th Ave,Times Square,A,C,E,N,Q,R,S,1,2,3,7,Stair,1,1,1,40.755334,-73.9872
+785,Broadway-7th Ave,Van Cortlandt Park-242nd St,1,,,,,,,,,,,Stair,1,0,1,40.889783,-73.898432
+786,Broadway-7th Ave,Van Cortlandt Park-242nd St,1,,,,,,,,,,,Stair,1,0,1,40.889683,-73.897925
+787,Broadway-7th Ave,Van Cortlandt Park-242nd St,1,,,,,,,,,,,Stair,1,0,1,40.890136,-73.898257
+788,Broadway-7th Ave,Van Cortlandt Park-242nd St,1,,,,,,,,,,,Stair,1,0,1,40.889946,-73.897798
+789,Canarsie,1st Av,L,,,,,,,,,,,Stair,1,0,0,40.731397,-73.982112
+790,Canarsie,1st Av,L,,,,,,,,,,,Stair,1,0,0,40.731483,-73.982145
+791,Canarsie,1st Av,L,,,,,,,,,,,Stair,1,0,0,40.73105,-73.982625
+792,Canarsie,1st Av,L,,,,,,,,,,,Stair,1,0,0,40.731118,-73.982563
+793,Canarsie,3rd Av,L,,,,,,,,,,,Stair,1,0,0,40.732961,-73.986657
+794,Canarsie,3rd Av,L,,,,,,,,,,,Stair,1,0,0,40.733134,-73.987041
+795,Canarsie,3rd Av,L,,,,,,,,,,,Stair,1,0,0,40.733122,-73.986548
+796,Canarsie,3rd Av,L,,,,,,,,,,,Stair,1,0,0,40.733277,-73.986931
+797,Canarsie,6th Av,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737197,-73.996704
+798,Canarsie,6th Av,F,L,M,1,2,3,,,,,,Stair,1,0,1,40.737149,-73.996578
+799,Canarsie,8th Av,A,C,E,L,,,,,,,,Stair,1,1,1,40.73955,-74.002389
+800,Canarsie,8th Av,A,C,E,L,,,,,,,,Stair,1,1,1,40.739734,-74.002804
+801,Canarsie,Atlantic Av,L,,,,,,,,,,,Stair,1,0,1,40.67538,-73.902612
+802,Canarsie,Atlantic Av,L,,,,,,,,,,,Stair,1,0,1,40.675609,-73.902767
+803,Canarsie,Atlantic Av,L,,,,,,,,,,,Stair,1,0,1,40.675607,-73.902672
+804,Canarsie,Bedford Av,L,,,,,,,,,,,Stair,1,0,1,40.717714,-73.957695
+805,Canarsie,Bedford Av,L,,,,,,,,,,,Stair,1,0,1,40.717821,-73.957568
+806,Canarsie,Bedford Av,L,,,,,,,,,,,Stair,1,0,1,40.716888,-73.956367
+807,Canarsie,Bedford Av,L,,,,,,,,,,,Stair,1,0,1,40.716991,-73.956257
+808,Canarsie,Bushwick Av,L,,,,,,,,,,,Door,1,0,1,40.6823,-73.905149
+809,Canarsie,Canarsie - Rockaway Parkway,L,,,,,,,,,,,Door,1,1,1,40.64556,-73.902524
+810,Canarsie,Canarsie - Rockaway Parkway,L,,,,,,,,,,,Door,1,1,1,40.64556,-73.902524
+811,Canarsie,Canarsie - Rockaway Parkway,L,,,,,,,,,,,Walkway,1,1,1,40.645806,-73.901414
+812,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,1,0,1,40.704153,-73.919273
+813,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,1,0,1,40.704379,-73.919026
+814,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,1,0,1,40.704326,-73.919452
+815,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,1,0,1,40.70448,-73.919184
+816,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,1,0,1,40.703461,-73.917606
+817,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,1,0,1,40.70354,-73.917771
+818,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,0,0,1,40.703248,-73.91772
+819,Canarsie,DeKalb Av,L,,,,,,,,,,,Stair,0,0,1,40.703353,-73.917957
+820,Canarsie,East 105th St,L,,,,,,,,,,,Stair,1,0,1,40.651462,-73.899191
+821,Canarsie,East 105th St,L,,,,,,,,,,,Stair,1,0,1,40.651278,-73.898862
+822,Canarsie,Graham Av,L,,,,,,,,,,,Stair,1,0,0,40.714661,-73.944287
+823,Canarsie,Graham Av,L,,,,,,,,,,,Stair,1,0,0,40.714613,-73.94457
+824,Canarsie,Graham Av,L,,,,,,,,,,,Stair,1,0,0,40.714439,-73.94419
+825,Canarsie,Graham Av,L,,,,,,,,,,,Stair,1,0,0,40.714433,-73.944546
+826,Canarsie,Grand St,L,,,,,,,,,,,Stair,1,0,0,40.711912,-73.940433
+827,Canarsie,Grand St,L,,,,,,,,,,,Stair,1,0,0,40.712182,-73.940668
+828,Canarsie,Grand St,L,,,,,,,,,,,Stair,1,0,0,40.711791,-73.940742
+829,Canarsie,Grand St,L,,,,,,,,,,,Stair,1,0,0,40.712017,-73.940976
+830,Canarsie,Halsey St,L,,,,,,,,,,,Stair,1,0,0,40.696094,-73.90443
+831,Canarsie,Halsey St,L,,,,,,,,,,,Stair,1,0,0,40.696069,-73.904665
+832,Canarsie,Halsey St,L,,,,,,,,,,,Stair,1,0,0,40.695871,-73.905143
+833,Canarsie,Halsey St,L,,,,,,,,,,,Stair,1,0,0,40.69599,-73.905265
+834,Canarsie,Halsey St,L,,,,,,,,,,,Stair,0,0,0,40.695186,-73.903065
+835,Canarsie,Halsey St,L,,,,,,,,,,,Stair,0,0,0,40.695201,-73.903764
+836,Canarsie,Jefferson St,L,,,,,,,,,,,Stair,1,0,1,40.705943,-73.922036
+837,Canarsie,Jefferson St,L,,,,,,,,,,,Stair,1,0,1,40.706228,-73.92191
+838,Canarsie,Jefferson St,L,,,,,,,,,,,Stair,1,0,1,40.706082,-73.9223
+839,Canarsie,Jefferson St,L,,,,,,,,,,,Stair,1,0,1,40.70632,-73.922062
+840,Canarsie,Jefferson St,L,,,,,,,,,,,Stair,0,0,1,40.707229,-73.923725
+841,Canarsie,Jefferson St,L,,,,,,,,,,,Stair,0,0,1,40.707071,-73.923877
+842,Canarsie,Livonia Av,L,,,,,,,,,,,Door,1,0,1,40.663742,-73.900522
+843,Canarsie,Livonia Av,L,,,,,,,,,,,Stair,1,0,1,40.663749,-73.900482
+844,Canarsie,Lorimer St,G,L,,,,,,,,,,Stair,1,0,1,40.713908,-73.949262
+845,Canarsie,Lorimer St,G,L,,,,,,,,,,Stair,1,0,1,40.71421,-73.949313
+846,Canarsie,Montrose Av,L,,,,,,,,,,,Stair,1,0,1,40.707723,-73.940044
+847,Canarsie,Montrose Av,L,,,,,,,,,,,Stair,1,0,1,40.707819,-73.939749
+848,Canarsie,Morgan Av,L,,,,,,,,,,,Stair,1,0,1,40.706317,-73.931696
+849,Canarsie,Morgan Av,L,,,,,,,,,,,Stair,1,0,1,40.70621,-73.93196
+850,Canarsie,Morgan Av,L,,,,,,,,,,,Door,0,0,1,40.706073,-73.933633
+851,Canarsie,Myrtle Av,L,M,,,,,,,,,,Stair,1,1,1,40.699814,-73.911295
+852,Canarsie,Myrtle Av,L,M,,,,,,,,,,Stair,1,1,1,40.699468,-73.910648
+853,Canarsie,Myrtle Av,L,M,,,,,,,,,,Stair,1,1,1,40.699807,-73.910999
+854,Canarsie,New Lots Av,L,,,,,,,,,,,Stair,1,0,1,40.659041,-73.899409
+855,Canarsie,Sutter Av,L,,,,,,,,,,,Stair,1,0,1,40.668527,-73.901765
+856,Canarsie,Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,1,1,40.734755,-73.990991
+857,Canarsie,Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,1,1,40.734859,-73.991235
+858,Canarsie,Wilson Av,L,,,,,,,,,,,Stair,1,0,1,40.688805,-73.904741
+859,Clark,Borough Hall,R,2,3,4,5,,,,,,,Elevator,1,1,1,40.693594,-73.990304
+860,Clark,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.693838,-73.990119
+861,Clark,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.693569,-73.990599
+862,Clark,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.693728,-73.99063
+863,Clark,Clark St,2,3,,,,,,,,,,Door,1,0,1,40.69759,-73.993275
+864,Clark,Clark St,2,3,,,,,,,,,,Door,1,0,1,40.697649,-73.99306
+865,Clark,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.709475,-74.006409
+866,Clark,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,0,0,1,40.70863,-74.006999
+867,Clark,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,0,0,1,40.7092,-74.006664
+868,Clark,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,0,0,1,40.709046,-74.006814
+869,Clark,Park Place,A,C,E,1,2,3,,,,,,Stair,1,0,1,40.712712,-74.007766
+870,Clark,Wall St,2,3,,,,,,,,,,Stair,1,0,1,40.706506,-74.009544
+871,Clark,Wall St,2,3,,,,,,,,,,Stair,1,0,1,40.706392,-74.009332
+872,Clark,Wall St,2,3,,,,,,,,,,Easement,1,0,1,40.707431,-74.008778
+873,Clark,Wall St,2,3,,,,,,,,,,Stair,1,0,1,40.706385,-74.009658
+874,Clark,Wall St,2,3,,,,,,,,,,Stair,1,0,1,40.706272,-74.009447
+875,Clark,Wall St,2,3,,,,,,,,,,Stair,1,0,1,40.706755,-74.008804
+876,Concourse,155th St,B,D,,,,,,,,,,Stair,1,0,1,40.830313,-73.936687
+877,Concourse,167th St,B,D,,,,,,,,,,Stair,1,0,1,40.834466,-73.918155
+878,Concourse,167th St,B,D,,,,,,,,,,Stair,1,0,1,40.834286,-73.917562
+879,Concourse,167th St,B,D,,,,,,,,,,Stair,1,0,1,40.834788,-73.917838
+880,Concourse,167th St,B,D,,,,,,,,,,Stair,1,0,1,40.834609,-73.917245
+881,Concourse,167th St,B,D,,,,,,,,,,Stair,1,0,1,40.833111,-73.919399
+882,Concourse,167th St,B,D,,,,,,,,,,Stair,0,0,1,40.832912,-73.918822
+883,Concourse,170th St,B,D,,,,,,,,,,Stair,1,0,1,40.839751,-73.912743
+884,Concourse,170th St,B,D,,,,,,,,,,Stair,1,0,1,40.840097,-73.913333
+885,Concourse,170th St,B,D,,,,,,,,,,Stair,1,0,1,40.838618,-73.914191
+886,Concourse,170th St,B,D,,,,,,,,,,Stair,1,0,1,40.838991,-73.914037
+887,Concourse,170th St,B,D,,,,,,,,,,Stair,1,0,1,40.838421,-73.913626
+888,Concourse,174-175th Sts,B,D,,,,,,,,,,Door,1,0,1,40.844933,-73.911212
+889,Concourse,174-175th Sts,B,D,,,,,,,,,,Stair,1,0,1,40.844939,-73.910885
+890,Concourse,174-175th Sts,B,D,,,,,,,,,,Stair,1,0,1,40.846461,-73.909796
+891,Concourse,174-175th Sts,B,D,,,,,,,,,,Stair,1,0,1,40.846354,-73.909047
+892,Concourse,182nd-183rd Sts,B,D,,,,,,,,,,Stair,1,0,1,40.856038,-73.90114
+893,Concourse,182nd-183rd Sts,B,D,,,,,,,,,,Stair,1,0,1,40.855864,-73.900484
+894,Concourse,182nd-183rd Sts,B,D,,,,,,,,,,Stair,1,0,1,40.856237,-73.901115
+895,Concourse,182nd-183rd Sts,B,D,,,,,,,,,,Stair,1,0,1,40.856039,-73.900449
+896,Concourse,Bedford Park Blvd,B,D,,,,,,,,,,Stair,1,0,1,40.872135,-73.887459
+897,Concourse,Bedford Park Blvd,B,D,,,,,,,,,,Stair,1,0,1,40.872198,-73.887788
+898,Concourse,Bedford Park Blvd,B,D,,,,,,,,,,Stair,1,0,1,40.872468,-73.887894
+899,Concourse,Bedford Park Blvd,B,D,,,,,,,,,,Stair,1,0,1,40.874084,-73.887112
+900,Concourse,Bedford Park Blvd,B,D,,,,,,,,,,Stair,1,0,1,40.874025,-73.886466
+901,Concourse,Fordham Rd,B,D,,,,,,,,,,Stair,1,0,1,40.861401,-73.898098
+902,Concourse,Fordham Rd,B,D,,,,,,,,,,Stair,1,0,1,40.861147,-73.897424
+903,Concourse,Fordham Rd,B,D,,,,,,,,,,Stair,1,0,1,40.861592,-73.898019
+904,Concourse,Fordham Rd,B,D,,,,,,,,,,Stair,1,0,1,40.861322,-73.897355
+905,Concourse,Fordham Rd,B,D,,,,,,,,,,Stair,1,0,1,40.862296,-73.896885
+906,Concourse,Fordham Rd,B,D,,,,,,,,,,Stair,1,0,1,40.862608,-73.896662
+907,Concourse,Kingsbridge Rd,B,D,,,,,,,,,,Stair,1,0,1,40.868114,-73.893195
+908,Concourse,Kingsbridge Rd,B,D,,,,,,,,,,Stair,1,0,1,40.867688,-73.892739
+909,Concourse,Kingsbridge Rd,B,D,,,,,,,,,,Door,1,0,1,40.866181,-73.894306
+910,Concourse,Kingsbridge Rd,B,D,,,,,,,,,,Stair,1,0,1,40.866369,-73.894521
+911,Concourse,Kingsbridge Rd,B,D,,,,,,,,,,Stair,1,0,1,40.866127,-73.893982
+912,Concourse,Norwood-205th St,D,,,,,,,,,,,Stair,1,0,1,40.874902,-73.879267
+913,Concourse,Norwood-205th St,D,,,,,,,,,,,Stair,1,0,1,40.875087,-73.87961
+914,Concourse,Norwood-205th St,D,,,,,,,,,,,Stair,1,0,1,40.874021,-73.877501
+915,Concourse,Norwood-205th St,D,,,,,,,,,,,Stair,1,0,1,40.874262,-73.877533
+916,Concourse,Tremont Av,B,D,,,,,,,,,,Stair,1,0,1,40.849864,-73.906084
+917,Concourse,Tremont Av,B,D,,,,,,,,,,Stair,1,0,1,40.850124,-73.905841
+918,Concourse,Tremont Av,B,D,,,,,,,,,,Stair,1,0,1,40.849968,-73.905226
+919,Concourse,Tremont Av,B,D,,,,,,,,,,Stair,1,0,1,40.851052,-73.905093
+920,Concourse,Tremont Av,B,D,,,,,,,,,,Stair,1,0,1,40.851176,-73.904263
+921,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Elevator,1,1,1,40.82784,-73.925715
+922,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Stair,1,1,1,40.827488,-73.926004
+923,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Stair,1,1,1,40.827471,-73.92625
+924,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Stair,1,1,1,40.827545,-73.926202
+925,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Stair,1,1,1,40.828011,-73.925588
+926,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Door,1,1,1,40.827372,-73.924217
+927,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Stair,1,1,1,40.827572,-73.924028
+928,Concourse,Yankee Stadium-161st St,B,D,4,,,,,,,,,Stair,1,1,1,40.827539,-73.924156
+929,Coney Island,Stillwell Av,D,F,N,Q,,,,,,,,Stair,1,1,1,40.5769,-73.980846
+930,Coney Island,West 8th St,F,Q,,,,,,,,,,Stair,1,0,1,40.575499,-73.976873
+931,Coney Island,West 8th St,F,Q,,,,,,,,,,Stair,1,0,1,40.575929,-73.976747
+932,Crosstown,21st St,G,,,,,,,,,,,Stair,1,0,1,40.744625,-73.949117
+933,Crosstown,21st St,G,,,,,,,,,,,Stair,1,0,1,40.744771,-73.948658
+934,Crosstown,21st St,G,,,,,,,,,,,Stair,1,0,1,40.744552,-73.948425
+935,Crosstown,Bedford-Nostrand Avs,G,,,,,,,,,,,Stair,1,0,1,40.689995,-73.951616
+936,Crosstown,Bedford-Nostrand Avs,G,,,,,,,,,,,Stair,1,0,1,40.689757,-73.951612
+937,Crosstown,Bedford-Nostrand Avs,G,,,,,,,,,,,Stair,1,0,1,40.689543,-73.954998
+938,Crosstown,Bedford-Nostrand Avs,G,,,,,,,,,,,Stair,1,0,1,40.689367,-73.954957
+939,Crosstown,Bedford-Nostrand Avs,G,,,,,,,,,,,Stair,1,0,1,40.6895,-73.955353
+940,Crosstown,Bedford-Nostrand Avs,G,,,,,,,,,,,Stair,1,0,1,40.68933,-73.955318
+941,Crosstown,Broadway,G,,,,,,,,,,,Stair,1,0,1,40.705114,-73.950062
+942,Crosstown,Broadway,G,,,,,,,,,,,Stair,1,0,1,40.70549,-73.950554
+943,Crosstown,Broadway,G,,,,,,,,,,,Stair,1,0,1,40.705495,-73.950089
+944,Crosstown,Broadway,G,,,,,,,,,,,Stair,1,0,1,40.705204,-73.95032
+945,Crosstown,Classon Av,G,,,,,,,,,,,Stair,1,0,1,40.688942,-73.960215
+946,Crosstown,Classon Av,G,,,,,,,,,,,Stair,1,0,1,40.688781,-73.959871
+947,Crosstown,Classon Av,G,,,,,,,,,,,Stair,1,0,1,40.688753,-73.96019
+948,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,1,0,1,40.688114,-73.967575
+949,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,0,0,1,40.688114,-73.967575
+950,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,1,0,1,40.687875,-73.967931
+951,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,0,0,1,40.687875,-73.967931
+952,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,1,0,1,40.68846,-73.965749
+953,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,0,0,1,40.68846,-73.965749
+954,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,1,0,1,40.688157,-73.965579
+955,Crosstown,Clinton-Washington Avs,G,,,,,,,,,,,Stair,0,0,1,40.688157,-73.965579
+956,Crosstown,Flushing Av,G,,,,,,,,,,,Stair,1,0,0,40.699582,-73.950164
+957,Crosstown,Flushing Av,G,,,,,,,,,,,Stair,1,0,0,40.699985,-73.949895
+958,Crosstown,Fulton St,G,,,,,,,,,,,Stair,1,0,1,40.687159,-73.97629
+959,Crosstown,Fulton St,G,,,,,,,,,,,Stair,1,0,1,40.68716,-73.976865
+960,Crosstown,Greenpoint Av,G,,,,,,,,,,,Stair,1,0,1,40.73007,-73.954377
+961,Crosstown,Greenpoint Av,G,,,,,,,,,,,Stair,1,0,1,40.730122,-73.954049
+962,Crosstown,Greenpoint Av,G,,,,,,,,,,,Stair,1,0,1,40.730278,-73.954488
+963,Crosstown,Greenpoint Av,G,,,,,,,,,,,Stair,1,0,1,40.732258,-73.954379
+964,Crosstown,Greenpoint Av,G,,,,,,,,,,,Stair,1,0,1,40.732216,-73.954784
+965,Crosstown,Long Island City-Court Square,G,,,,,,,,,,,Stair,1,0,1,40.746214,-73.945115
+966,Crosstown,Long Island City-Court Square,G,,,,,,,,,,,Easement,0,0,1,40.746869,-73.943522
+967,Crosstown,Long Island City-Court Square,G,,,,,,,,,,,Stair,0,0,1,40.746243,-73.944011
+968,Crosstown,Metropolitan Av,G,L,,,,,,,,,,Stair,1,0,1,40.71414,-73.95135
+969,Crosstown,Metropolitan Av,G,L,,,,,,,,,,Stair,1,0,1,40.713927,-73.951737
+970,Crosstown,Metropolitan Av,G,L,,,,,,,,,,Stair,1,0,1,40.713747,-73.951768
+971,Crosstown,Metropolitan Av,G,L,,,,,,,,,,Stair,1,0,1,40.713744,-73.951455
+972,Crosstown,Myrtle-Willoughby Avs,G,,,,,,,,,,,Stair,1,0,1,40.695436,-73.94948
+973,Crosstown,Myrtle-Willoughby Avs,G,,,,,,,,,,,Stair,1,0,1,40.6955,-73.94896
+974,Crosstown,Nassau Av,G,,,,,,,,,,,Stair,1,0,1,40.72365,-73.950929
+975,Crosstown,Nassau Av,G,,,,,,,,,,,Stair,1,0,1,40.723765,-73.950566
+976,Crosstown,Nassau Av,G,,,,,,,,,,,Stair,1,0,1,40.72378,-73.950985
+977,Crosstown,Nassau Av,G,,,,,,,,,,,Stair,1,0,1,40.723894,-73.950665
+978,Crosstown,Nassau Av,G,,,,,,,,,,,Stair,1,0,1,40.725446,-73.951974
+979,Crosstown,Nassau Av,G,,,,,,,,,,,Stair,1,0,1,40.725573,-73.951603
+980,Culver,18th Av,F,,,,,,,,,,,Stair,1,0,1,40.630531,-73.977251
+981,Culver,18th Av,F,,,,,,,,,,,Stair,1,0,1,40.630562,-73.976995
+982,Culver,18th Av,F,,,,,,,,,,,Stair,1,0,1,40.628674,-73.976892
+983,Culver,18th Av,F,,,,,,,,,,,Stair,1,0,1,40.628708,-73.976646
+984,Culver,Av I,F,,,,,,,,,,,Stair,1,0,1,40.626133,-73.976407
+985,Culver,Av I,F,,,,,,,,,,,Stair,1,0,1,40.626163,-73.976177
+986,Culver,Av I,F,,,,,,,,,,,Stair,0,0,1,40.624263,-73.976049
+987,Culver,Av I,F,,,,,,,,,,,Stair,0,0,1,40.624301,-73.975817
+988,Culver,Av N,F,,,,,,,,,,,Stair,1,0,1,40.614279,-73.97418
+989,Culver,Av N,F,,,,,,,,,,,Stair,1,0,1,40.614304,-73.97391
+990,Culver,Av N,F,,,,,,,,,,,Stair,1,0,1,40.616121,-73.974507
+991,Culver,Av N,F,,,,,,,,,,,Stair,1,0,1,40.61616,-73.97427
+992,Culver,Av P,F,,,,,,,,,,,Stair,1,0,1,40.608615,-73.973097
+993,Culver,Av P,F,,,,,,,,,,,Stair,1,0,1,40.609041,-73.972904
+994,Culver,Av U,F,,,,,,,,,,,Stair,1,0,1,40.596701,-73.973402
+995,Culver,Av U,F,,,,,,,,,,,Stair,1,0,1,40.596897,-73.973137
+996,Culver,Av U,F,,,,,,,,,,,Stair,0,0,1,40.595053,-73.973623
+997,Culver,Av U,F,,,,,,,,,,,Stair,0,0,1,40.595027,-73.973382
+998,Culver,Av X,F,,,,,,,,,,,Stair,1,0,1,40.590521,-73.974242
+999,Culver,Av X,F,,,,,,,,,,,Stair,1,0,1,40.590266,-73.974051
+1000,Culver,Bay Parkway-22nd Av,F,,,,,,,,,,,Stair,1,0,1,40.620797,-73.975479
+1001,Culver,Bay Parkway-22nd Av,F,,,,,,,,,,,Stair,1,0,1,40.620825,-73.975138
+1002,Culver,Bay Parkway-22nd Av,F,,,,,,,,,,,Stair,1,0,1,40.621162,-73.975467
+1003,Culver,Ditmas Av,F,,,,,,,,,,,Stair,1,0,1,40.635434,-73.978289
+1004,Culver,Ditmas Av,F,,,,,,,,,,,Stair,1,0,1,40.635389,-73.977914
+1005,Culver,Ditmas Av,F,,,,,,,,,,,Stair,1,0,1,40.637093,-73.978463
+1006,Culver,Ditmas Av,F,,,,,,,,,,,Stair,1,0,1,40.637107,-73.978257
+1007,Culver,Kings Highway,F,,,,,,,,,,,Stair,1,0,1,40.604007,-73.972393
+1008,Culver,Kings Highway,F,,,,,,,,,,,Stair,1,0,1,40.603999,-73.972124
+1009,Culver,Kings Highway,F,,,,,,,,,,,Stair,1,0,1,40.602197,-73.97264
+1010,Culver,Kings Highway,F,,,,,,,,,,,Stair,1,0,1,40.602178,-73.972379
+1011,Culver,Neptune Av-Van Siclen,F,,,,,,,,,,,Stair,1,0,1,40.580576,-73.974443
+1012,Culver,Neptune Av-Van Siclen,F,,,,,,,,,,,Stair,1,0,1,40.580547,-73.974778
+1013,Dyre Av,Baychester Av,5,,,,,,,,,,,Door,0,0,1,40.87933,-73.837858
+1014,Dyre Av,Baychester Av,5,,,,,,,,,,,Door,1,0,1,40.879519,-73.837958
+1015,Dyre Av,Eastchester-Dyre Av,5,,,,,,,,,,,Door,1,0,1,40.88798,-73.831195
+1016,Dyre Av,Gun Hill Rd,5,,,,,,,,,,,Easement,0,0,1,40.870039,-73.845724
+1017,Dyre Av,Gun Hill Rd,5,,,,,,,,,,,Door,1,0,1,40.870117,-73.845869
+1018,Dyre Av,Morris Park,5,,,,,,,,,,,Door,1,0,1,40.854544,-73.860248
+1019,Dyre Av,Pelham Parkway,5,,,,,,,,,,,Door,1,0,1,40.858804,-73.855515
+1020,Eastern Parkway,Atlantic Av-Barclays Ctr,B,D,N,Q,R,2,3,4,5,,,Easement,1,1,1,40.684976,-73.97788
+1021,Eastern Parkway,Bergen St,2,3,,,,,,,,,,Stair,1,0,0,40.680695,-73.974748
+1022,Eastern Parkway,Bergen St,2,3,,,,,,,,,,Stair,1,0,0,40.680911,-73.97496
+1023,Eastern Parkway,Bergen St,2,3,,,,,,,,,,Stair,1,0,0,40.680832,-73.975534
+1024,Eastern Parkway,Bergen St,2,3,,,,,,,,,,Stair,1,0,0,40.680709,-73.975241
+1025,Eastern Parkway,Bergen St,2,3,,,,,,,,,,Stair,1,0,0,40.680951,-73.975448
+1026,Eastern Parkway,Eastern Parkway-Brooklyn Museum,2,3,,,,,,,,,,Stair,1,0,1,40.672122,-73.964154
+1027,Eastern Parkway,Eastern Parkway-Brooklyn Museum,2,3,,,,,,,,,,Stair,1,0,1,40.671789,-73.964301
+1028,Eastern Parkway,Franklin Av,FS,2,3,4,5,,,,,,,Stair,1,0,1,40.670485,-73.957806
+1029,Eastern Parkway,Franklin Av,FS,2,3,4,5,,,,,,,Stair,1,0,1,40.670732,-73.957696
+1030,Eastern Parkway,Franklin Av,FS,2,3,4,5,,,,,,,Stair,1,0,1,40.670337,-73.957973
+1031,Eastern Parkway,Franklin Av,FS,2,3,4,5,,,,,,,Stair,1,0,1,40.670922,-73.957764
+1032,Eastern Parkway,Grand Army Plaza,2,3,,,,,,,,,,Stair,1,0,1,40.67495,-73.97099
+1033,Eastern Parkway,Grand Army Plaza,2,3,,,,,,,,,,Stair,1,0,1,40.67511,-73.970822
+1034,Eastern Parkway,Grand Army Plaza,2,3,,,,,,,,,,Stair,1,0,1,40.675142,-73.971216
+1035,Eastern Parkway,Grand Army Plaza,2,3,,,,,,,,,,Stair,1,0,1,40.675286,-73.970825
+1036,Eastern Parkway,Hoyt St,2,3,,,,,,,,,,Stair,1,0,0,40.690388,-73.985299
+1037,Eastern Parkway,Hoyt St,2,3,,,,,,,,,,Stair,1,0,0,40.690931,-73.98525
+1038,Eastern Parkway,Hoyt St,2,3,,,,,,,,,,Stair,1,0,0,40.690972,-73.985448
+1039,Eastern Parkway,Hoyt St,2,3,,,,,,,,,,Stair,1,0,0,40.690025,-73.984248
+1040,Eastern Parkway,Hoyt St,2,3,,,,,,,,,,Stair,0,0,0,40.690433,-73.984323
+1041,Eastern Parkway,Kingston Av,3,,,,,,,,,,,Stair,1,0,1,40.669261,-73.941948
+1042,Eastern Parkway,Kingston Av,3,,,,,,,,,,,Stair,1,0,1,40.669289,-73.942463
+1043,Eastern Parkway,Nevins St,2,3,4,5,,,,,,,,Stair,1,0,0,40.688235,-73.980639
+1044,Eastern Parkway,Nevins St,2,3,4,5,,,,,,,,Stair,1,0,0,40.688053,-73.980506
+1045,Eastern Parkway,Nevins St,2,3,4,5,,,,,,,,Stair,1,0,0,40.688243,-73.980356
+1046,Eastern Parkway,Nevins St,2,3,4,5,,,,,,,,Stair,1,0,0,40.688085,-73.980243
+1047,Eastern Parkway,Nostrand Av,3,,,,,,,,,,,Stair,1,0,1,40.669711,-73.950247
+1048,Eastern Parkway,Nostrand Av,3,,,,,,,,,,,Stair,1,0,1,40.669741,-73.950798
+1049,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Elevator,1,1,1,40.668935,-73.931831
+1050,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Stair,1,1,1,40.6687,-73.931702
+1051,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Stair,1,1,1,40.66896,-73.931675
+1052,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Stair,1,1,1,40.668708,-73.931883
+1053,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Stair,1,1,1,40.668969,-73.931874
+1054,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Stair,1,1,1,40.668838,-73.934239
+1055,Eastern Parkway,Utica Av,3,4,,,,,,,,,,Stair,1,1,1,40.669102,-73.934213
+1056,Flushing,103rd St,7,,,,,,,,,,,Stair,1,0,1,40.749787,-73.862389
+1057,Flushing,103rd St,7,,,,,,,,,,,Stair,1,0,1,40.749973,-73.862425
+1058,Flushing,103rd St,7,,,,,,,,,,,Stair,1,0,1,40.749775,-73.862537
+1059,Flushing,103rd St,7,,,,,,,,,,,Stair,1,0,1,40.749964,-73.862546
+1060,Flushing,111th St,7,,,,,,,,,,,Stair,1,0,1,40.75161,-73.856065
+1061,Flushing,111th St,7,,,,,,,,,,,Stair,1,0,1,40.751423,-73.855996
+1062,Flushing,111th St,7,,,,,,,,,,,Stair,1,0,1,40.751551,-73.855628
+1063,Flushing,45 Rd-Court House Sq,E,G,M,7,,,,,,,,Stair,1,0,1,40.746308,-73.945713
+1064,Flushing,45 Rd-Court House Sq,E,G,M,7,,,,,,,,Stair,1,0,1,40.74613,-73.945349
+1065,Flushing,45 Rd-Court House Sq,E,G,M,7,,,,,,,,Stair,1,0,1,40.746232,-73.945322
+1066,Flushing,5th Av,B,D,F,M,7,,,,,,,Stair,1,0,1,40.753409,-73.98113
+1067,Flushing,5th Av,B,D,F,M,7,,,,,,,Stair,0,0,1,40.754175,-73.982871
+1068,Flushing,5th Av,B,D,F,M,7,,,,,,,Stair,0,0,1,40.754213,-73.982984
+1069,Flushing,82nd St-Jackson Heights,7,,,,,,,,,,,Stair,1,0,1,40.747812,-73.883876
+1070,Flushing,82nd St-Jackson Heights,7,,,,,,,,,,,Stair,1,0,1,40.747453,-73.883973
+1071,Flushing,82nd St-Jackson Heights,7,,,,,,,,,,,Stair,1,0,1,40.747797,-73.884028
+1072,Flushing,90th St Elmhurst,7,,,,,,,,,,,Stair,1,0,1,40.748318,-73.876432
+1073,Flushing,90th St Elmhurst,7,,,,,,,,,,,Stair,1,0,1,40.74859,-73.876461
+1074,Flushing,90th St Elmhurst,7,,,,,,,,,,,Stair,1,0,1,40.748582,-73.876591
+1075,Flushing,Bliss St-46th St,7,,,,,,,,,,,Stair,1,0,1,40.743064,-73.918601
+1076,Flushing,Bliss St-46th St,7,,,,,,,,,,,Stair,1,0,1,40.743217,-73.918564
+1077,Flushing,Bliss St-46th St,7,,,,,,,,,,,Stair,1,0,1,40.743105,-73.918848
+1078,Flushing,Bliss St-46th St,7,,,,,,,,,,,Stair,1,0,1,40.74324,-73.918813
+1079,Flushing,Bliss St-46th St,7,,,,,,,,,,,Stair,1,0,1,40.742987,-73.917936
+1080,Flushing,Bliss St-46th St,7,,,,,,,,,,,Stair,1,0,1,40.743134,-73.917895
+1081,Flushing,Broadway-74th St,E,F,M,R,7,,,,,,,Stair,1,1,1,40.747025,-73.891413
+1082,Flushing,Fisk Av-69th St,7,,,,,,,,,,,Stair,1,0,1,40.746509,-73.896268
+1083,Flushing,Fisk Av-69th St,7,,,,,,,,,,,Stair,1,0,1,40.746148,-73.896396
+1084,Flushing,Flushing-Main St,7,,,,,,,,,,,Stair,1,1,1,40.759542,-73.829885
+1085,Flushing,Flushing-Main St,7,,,,,,,,,,,Stair,1,1,1,40.759706,-73.829943
+1086,Flushing,Flushing-Main St,7,,,,,,,,,,,Stair,1,1,1,40.759451,-73.829927
+1087,Flushing,Flushing-Main St,7,,,,,,,,,,,Stair,1,1,1,40.759587,-73.830408
+1088,Flushing,Flushing-Main St,7,,,,,,,,,,,Stair,1,1,1,40.759404,-73.830333
+1089,Flushing,Flushing-Main St,7,,,,,,,,,,,Elevator,1,1,1,40.759908,-73.829019
+1090,Flushing,Flushing-Main St,7,,,,,,,,,,,Escalator,1,1,1,40.760004,-73.82863
+1091,Flushing,Flushing-Main St,7,,,,,,,,,,,Escalator,1,1,1,40.760048,-73.828444
+1092,Flushing,Flushing-Main St,7,,,,,,,,,,,Escalator,1,1,1,40.759895,-73.828573
+1093,Flushing,Flushing-Main St,7,,,,,,,,,,,Stair,1,1,1,40.759946,-73.828414
+1094,Flushing,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.750851,-73.975078
+1095,Flushing,Hunters Point,7,,,,,,,,,,,Stair,1,0,1,40.7425,-73.948609
+1096,Flushing,Hunters Point,7,,,,,,,,,,,Stair,1,0,1,40.742405,-73.94811
+1097,Flushing,Hunters Point,7,,,,,,,,,,,Stair,1,0,1,40.742422,-73.948195
+1098,Flushing,Junction Blvd,7,,,,,,,,,,,Elevator,1,1,1,40.749263,-73.869376
+1099,Flushing,Junction Blvd,7,,,,,,,,,,,Stair,1,1,1,40.749095,-73.86912
+1100,Flushing,Junction Blvd,7,,,,,,,,,,,Stair,1,1,1,40.749266,-73.86922
+1101,Flushing,Junction Blvd,7,,,,,,,,,,,Stair,1,1,1,40.749028,-73.869574
+1102,Flushing,Junction Blvd,7,,,,,,,,,,,Stair,1,1,1,40.749213,-73.869696
+1103,Flushing,Lincoln Av-52nd St,7,,,,,,,,,,,Stair,1,0,1,40.743933,-73.913003
+1104,Flushing,Lincoln Av-52nd St,7,,,,,,,,,,,Stair,1,0,1,40.744067,-73.91308
+1105,Flushing,Lincoln Av-52nd St,7,,,,,,,,,,,Stair,1,0,1,40.744453,-73.911282
+1106,Flushing,Lincoln Av-52nd St,7,,,,,,,,,,,Stair,1,0,1,40.74459,-73.911294
+1107,Flushing,Lowery St-40th St,7,,,,,,,,,,,Stair,1,0,1,40.74371,-73.924161
+1108,Flushing,Lowery St-40th St,7,,,,,,,,,,,Stair,1,0,1,40.743882,-73.924112
+1109,Flushing,Lowery St-40th St,7,,,,,,,,,,,Stair,1,0,1,40.743743,-73.924417
+1110,Flushing,Lowery St-40th St,7,,,,,,,,,,,Stair,1,0,1,40.743911,-73.924385
+1111,Flushing,Mets - Willets Point,7,,,,,,,,,,,Door,1,0,1,40.754777,-73.845737
+1112,Flushing,Mets - Willets Point,7,,,,,,,,,,,Stair,1,0,1,40.754394,-73.845832
+1113,Flushing,Mets - Willets Point,7,,,,,,,,,,,Stair,1,0,1,40.754657,-73.846014
+1114,Flushing,Mets - Willets Point,7,,,,,,,,,,,Stair,1,0,1,40.754768,-73.845598
+1115,Flushing,Queensboro Plaza,N,Q,7,,,,,,,,,Easement,1,0,1,40.750835,-73.939671
+1116,Flushing,Queensboro Plaza,N,Q,7,,,,,,,,,Stair,1,0,1,40.750302,-73.940245
+1117,Flushing,Rawson St-33rd St,7,,,,,,,,,,,Stair,1,0,1,40.744568,-73.93157
+1118,Flushing,Rawson St-33rd St,7,,,,,,,,,,,Stair,1,0,1,40.744724,-73.931533
+1119,Flushing,Rawson St-33rd St,7,,,,,,,,,,,Stair,1,0,1,40.744594,-73.931829
+1120,Flushing,Rawson St-33rd St,7,,,,,,,,,,,Stair,1,0,1,40.744763,-73.931794
+1121,Flushing,Rawson St-33rd St,7,,,,,,,,,,,Stair,1,0,1,40.744494,-73.930894
+1122,Flushing,Rawson St-33rd St,7,,,,,,,,,,,Stair,1,0,1,40.744658,-73.930865
+1123,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,1,0,0,40.742759,-73.953893
+1124,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,1,0,0,40.742803,-73.953955
+1125,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,1,0,0,40.742588,-73.954252
+1126,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,1,0,0,40.742654,-73.954232
+1127,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,1,0,0,40.742496,-73.952482
+1128,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,1,0,0,40.742593,-73.95285
+1129,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,0,0,0,40.742351,-73.952723
+1130,Flushing,Vernon Blvd-Jackson Av,7,,,,,,,,,,,Stair,0,0,0,40.742432,-73.953156
+1131,Flushing,Woodside Av-61st St,7,,,,,,,,,,,Escalator,1,1,1,40.745531,-73.903248
+1132,Flushing,Woodside Av-61st St,7,,,,,,,,,,,Stair,1,1,1,40.745717,-73.903063
+1133,Flushing,Woodside Av-61st St,7,,,,,,,,,,,Stair,1,1,1,40.745692,-73.903234
+1134,Franklin,Botanic Gardens,FS,2,3,4,5,,,,,,,Stair,1,0,1,40.670588,-73.959093
+1135,Franklin,Franklin Av,A,FS,,,,,,,,,,Door,1,1,1,40.681051,-73.95584
+1136,Franklin,Park Place,FS,,,,,,,,,,,Stair,1,1,1,40.674516,-73.957932
+1137,Franklin,Park Place,FS,,,,,,,,,,,Stair,1,1,1,40.675208,-73.957591
+1138,Fulton,Broadway Junction-East New York,A,C,J,L,,,,,,,,Door,1,0,1,40.678334,-73.903922
+1139,Fulton,Clinton & Washington Avs,C,,,,,,,,,,,Stair,1,0,0,40.683653,-73.966797
+1140,Fulton,Clinton & Washington Avs,C,,,,,,,,,,,Stair,1,0,0,40.683695,-73.967069
+1141,Fulton,Clinton & Washington Avs,C,,,,,,,,,,,Stair,1,0,0,40.682868,-73.96463
+1142,Fulton,Clinton & Washington Avs,C,,,,,,,,,,,Stair,1,0,0,40.683172,-73.964689
+1143,Fulton,Clinton & Washington Avs,C,,,,,,,,,,,Stair,0,0,0,40.683317,-73.966741
+1144,Fulton,Euclid Av,A,C,,,,,,,,,,Elevator,1,1,1,40.675554,-73.871875
+1145,Fulton,Euclid Av,A,C,,,,,,,,,,Stair,1,1,1,40.675301,-73.871801
+1146,Fulton,Euclid Av,A,C,,,,,,,,,,Stair,1,1,1,40.675533,-73.871742
+1147,Fulton,Euclid Av,A,C,,,,,,,,,,Stair,1,1,1,40.675274,-73.872115
+1148,Fulton,Euclid Av,A,C,,,,,,,,,,Stair,1,1,1,40.675478,-73.872109
+1149,Fulton,Franklin Av,A,C,FS,,,,,,,,,Stair,1,1,1,40.681256,-73.95559
+1150,Fulton,Hoyt & Schermerhorn,A,C,G,,,,,,,,,Stair,1,0,1,40.689085,-73.985941
+1151,Fulton,Hoyt & Schermerhorn,A,C,G,,,,,,,,,Stair,1,0,1,40.688396,-73.984216
+1152,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Easement,1,0,1,40.692335,-73.987446
+1153,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Easement,1,0,1,40.692393,-73.987443
+1154,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Escalator,1,0,1,40.692336,-73.987494
+1155,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Escalator,1,0,1,40.692394,-73.987491
+1156,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Easement,1,0,1,40.693243,-73.987402
+1157,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Easement,1,0,1,40.693491,-73.987089
+1158,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Easement,1,0,1,40.693153,-73.987408
+1159,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Escalator,1,0,1,40.693153,-73.987484
+1160,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Escalator,1,0,1,40.693243,-73.987481
+1161,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Stair,0,0,1,40.692397,-73.987162
+1162,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Stair,0,0,1,40.692329,-73.987167
+1163,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Stair,0,0,1,40.691559,-73.987208
+1164,Fulton,Jay St - Borough Hall,A,C,F,R,,,,,,,,Stair,0,0,1,40.6917,-73.987461
+1165,Fulton,Kingston-Throop,A,C,,,,,,,,,,Stair,1,0,0,40.68001,-73.940247
+1166,Fulton,Kingston-Throop,A,C,,,,,,,,,,Stair,1,0,0,40.680057,-73.940483
+1167,Fulton,Kingston-Throop,A,C,,,,,,,,,,Stair,1,0,0,40.679804,-73.941119
+1168,Fulton,Kingston-Throop,A,C,,,,,,,,,,Stair,1,0,0,40.679728,-73.941362
+1169,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.685789,-73.97276
+1170,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.685559,-73.9729
+1171,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.685969,-73.973021
+1172,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.6857,-73.973526
+1173,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.686077,-73.973308
+1174,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.686041,-73.974278
+1175,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.686409,-73.974347
+1176,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.686119,-73.974517
+1177,Fulton,Lafayette Av,C,,,,,,,,,,,Stair,1,0,0,40.686553,-73.974606
+1178,Fulton,Liberty Av,A,C,,,,,,,,,,Stair,1,0,1,40.674242,-73.896645
+1179,Fulton,Liberty Av,A,C,,,,,,,,,,Stair,1,0,1,40.674268,-73.896312
+1180,Fulton,Liberty Av,A,C,,,,,,,,,,Stair,1,0,1,40.67443,-73.896776
+1181,Fulton,Liberty Av,A,C,,,,,,,,,,Stair,1,0,1,40.674567,-73.896364
+1182,Fulton,Nostrand Av,A,C,,,,,,,,,,Stair,1,0,0,40.680547,-73.949515
+1183,Fulton,Nostrand Av,A,C,,,,,,,,,,Stair,1,0,0,40.680572,-73.949753
+1184,Fulton,Nostrand Av,A,C,,,,,,,,,,Stair,1,0,0,40.680228,-73.949414
+1185,Fulton,Nostrand Av,A,C,,,,,,,,,,Stair,1,0,0,40.680262,-73.949635
+1186,Fulton,Ralph Av,A,C,,,,,,,,,,Stair,1,0,1,40.678702,-73.921552
+1187,Fulton,Ralph Av,A,C,,,,,,,,,,Stair,1,0,1,40.678984,-73.921442
+1188,Fulton,Ralph Av,A,C,,,,,,,,,,Stair,1,0,1,40.679164,-73.92187
+1189,Fulton,Rockaway Av,A,C,,,,,,,,,,Stair,1,0,1,40.678594,-73.913732
+1190,Fulton,Rockaway Av,A,C,,,,,,,,,,Stair,1,0,1,40.678317,-73.913651
+1191,Fulton,Rockaway Av,A,C,,,,,,,,,,Stair,1,0,1,40.678513,-73.910773
+1192,Fulton,Rockaway Av,A,C,,,,,,,,,,Stair,1,0,1,40.67846,-73.910971
+1193,Fulton,Rockaway Av,A,C,,,,,,,,,,Stair,0,0,1,40.678017,-73.910661
+1194,Fulton,Rockaway Av,A,C,,,,,,,,,,Stair,0,0,1,40.678142,-73.910875
+1195,Fulton,Shepherd Av,A,C,,,,,,,,,,Stair,1,0,1,40.67397,-73.880667
+1196,Fulton,Shepherd Av,A,C,,,,,,,,,,Stair,1,0,1,40.674303,-73.880749
+1197,Fulton,Shepherd Av,A,C,,,,,,,,,,Stair,1,0,1,40.674234,-73.880927
+1198,Fulton,Shepherd Av,A,C,,,,,,,,,,Stair,1,0,1,40.673989,-73.880869
+1199,Fulton,Utica Av,A,C,,,,,,,,,,Stair,1,0,1,40.679095,-73.930044
+1200,Fulton,Utica Av,A,C,,,,,,,,,,Stair,1,0,1,40.679487,-73.929725
+1201,Fulton,Utica Av,A,C,,,,,,,,,,Stair,1,0,1,40.67953,-73.932021
+1202,Fulton,Utica Av,A,C,,,,,,,,,,Stair,1,0,1,40.679346,-73.931987
+1203,Fulton,Van Siclen Av,A,C,,,,,,,,,,Stair,1,0,1,40.672479,-73.890164
+1204,Fulton,Van Siclen Av,A,C,,,,,,,,,,Stair,1,0,1,40.67285,-73.890257
+1205,Fulton,Van Siclen Av,A,C,,,,,,,,,,Stair,1,0,1,40.672545,-73.890381
+1206,Fulton,Van Siclen Av,A,C,,,,,,,,,,Stair,1,0,1,40.672771,-73.890584
+1207,Jerome,138th St,4,5,,,,,,,,,,Stair,1,0,1,40.813328,-73.930004
+1208,Jerome,138th St,4,5,,,,,,,,,,Stair,1,0,1,40.813091,-73.929689
+1209,Jerome,138th St,4,5,,,,,,,,,,Stair,1,0,1,40.813363,-73.929847
+1210,Jerome,149th St-Grand Concourse,2,4,5,,,,,,,,,Stair,1,0,1,40.818281,-73.927251
+1211,Jerome,149th St-Grand Concourse,2,4,5,,,,,,,,,Stair,1,0,1,40.818405,-73.927101
+1212,Jerome,149th St-Grand Concourse,2,4,5,,,,,,,,,Stair,1,0,1,40.818259,-73.927659
+1213,Jerome,149th St-Grand Concourse,2,4,5,,,,,,,,,Stair,1,0,1,40.818373,-73.927609
+1214,Jerome,167th St,4,,,,,,,,,,,Stair,1,0,1,40.8356,-73.921131
+1215,Jerome,167th St,4,,,,,,,,,,,Stair,1,0,1,40.835746,-73.921562
+1216,Jerome,167th St,4,,,,,,,,,,,Stair,1,0,1,40.835726,-73.921059
+1217,Jerome,167th St,4,,,,,,,,,,,Stair,1,0,1,40.835873,-73.92149
+1218,Jerome,170th St,4,,,,,,,,,,,Stair,1,0,1,40.83996,-73.918018
+1219,Jerome,170th St,4,,,,,,,,,,,Stair,1,0,1,40.839877,-73.917791
+1220,Jerome,170th St,4,,,,,,,,,,,Stair,1,0,1,40.840076,-73.917648
+1221,Jerome,176th St,4,,,,,,,,,,,Stair,1,0,1,40.848385,-73.912003
+1222,Jerome,176th St,4,,,,,,,,,,,Stair,1,0,1,40.848501,-73.911633
+1223,Jerome,183rd St,4,,,,,,,,,,,Stair,1,0,1,40.858267,-73.904099
+1224,Jerome,183rd St,4,,,,,,,,,,,Stair,1,0,1,40.858453,-73.90369
+1225,Jerome,183rd St,4,,,,,,,,,,,Stair,1,0,1,40.858477,-73.904088
+1226,Jerome,Bedford Park Blvd-Lehman College,4,,,,,,,,,,,Stair,1,0,1,40.873528,-73.889754
+1227,Jerome,Burnside Av,4,,,,,,,,,,,Stair,1,0,1,40.853313,-73.907977
+1228,Jerome,Burnside Av,4,,,,,,,,,,,Stair,1,0,1,40.853181,-73.907782
+1229,Jerome,Burnside Av,4,,,,,,,,,,,Stair,1,0,1,40.85367,-73.907654
+1230,Jerome,Burnside Av,4,,,,,,,,,,,Stair,1,0,1,40.853596,-73.907393
+1231,Jerome,Fordham Rd,4,,,,,,,,,,,Stair,1,1,1,40.862562,-73.901367
+1232,Jerome,Fordham Rd,4,,,,,,,,,,,Stair,1,1,1,40.862592,-73.90097
+1233,Jerome,Fordham Rd,4,,,,,,,,,,,Stair,1,1,1,40.86289,-73.901262
+1234,Jerome,Fordham Rd,4,,,,,,,,,,,Stair,1,1,1,40.862814,-73.900815
+1235,Jerome,Kingsbridge Rd,4,,,,,,,,,,,Stair,1,0,1,40.867606,-73.897418
+1236,Jerome,Kingsbridge Rd,4,,,,,,,,,,,Stair,1,0,1,40.86762,-73.897152
+1237,Jerome,Kingsbridge Rd,4,,,,,,,,,,,Stair,1,0,1,40.867766,-73.897039
+1238,Jerome,Mosholu Parkway,4,,,,,,,,,,,Stair,1,0,1,40.880077,-73.88447
+1239,Jerome,Mosholu Parkway,4,,,,,,,,,,,Stair,1,0,1,40.879899,-73.884244
+1240,Jerome,Mosholu Parkway,4,,,,,,,,,,,Stair,1,0,1,40.879503,-73.885138
+1241,Jerome,Mosholu Parkway,4,,,,,,,,,,,Stair,1,0,1,40.879343,-73.88488
+1242,Jerome,Mt Eden Av,4,,,,,,,,,,,Stair,1,0,1,40.844702,-73.91465
+1243,Jerome,Mt Eden Av,4,,,,,,,,,,,Stair,1,0,1,40.844389,-73.914578
+1244,Jerome,Woodlawn,4,,,,,,,,,,,Stair,1,0,1,40.886819,-73.878376
+1245,Jerome,Woodlawn,4,,,,,,,,,,,Stair,1,0,1,40.886737,-73.87812
+1246,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Elevator,1,1,1,40.827685,-73.925842
+1247,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827759,-73.9261
+1248,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827942,-73.926
+1249,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827854,-73.925745
+1250,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827605,-73.926282
+1251,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827529,-73.926322
+1252,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827461,-73.926362
+1253,Jerome,Yankee Stadium-161st St,B ,D,4,,,,,,,,,Stair,1,1,1,40.827399,-73.926394
+1254,Lenox,110th St-Central Park North,2,3,,,,,,,,,,Stair,1,0,1,40.798497,-73.952672
+1255,Lenox,110th St-Central Park North,2,3,,,,,,,,,,Stair,1,0,1,40.799033,-73.952058
+1256,Lenox,116th St,2,3,,,,,,,,,,Stair,1,0,0,40.801945,-73.949943
+1257,Lenox,116th St,2,3,,,,,,,,,,Stair,1,0,0,40.802229,-73.949734
+1258,Lenox,116th St,2,3,,,,,,,,,,Stair,1,0,0,40.801822,-73.949651
+1259,Lenox,116th St,2,3,,,,,,,,,,Stair,1,0,0,40.802111,-73.949437
+1260,Lenox,125th St,2,3,,,,,,,,,,Stair,1,0,0,40.807681,-73.945752
+1261,Lenox,125th St,2,3,,,,,,,,,,Stair,1,0,0,40.807995,-73.945524
+1262,Lenox,125th St,2,3,,,,,,,,,,Stair,1,0,0,40.807548,-73.945463
+1263,Lenox,125th St,2,3,,,,,,,,,,Stair,1,0,0,40.807875,-73.945229
+1264,Lenox,135th St,2,3,,,,,,,,,,Stair,1,1,0,40.814024,-73.941117
+1265,Lenox,135th St,2,3,,,,,,,,,,Stair,1,1,0,40.814316,-73.94091
+1266,Lenox,135th St,2,3,,,,,,,,,,Stair,1,1,0,40.813896,-73.940831
+1267,Lenox,135th St,2,3,,,,,,,,,,Stair,1,1,0,40.814188,-73.940618
+1268,Lenox,145th St,3,,,,,,,,,,,Stair,1,0,0,40.820343,-73.936508
+1269,Lenox,145th St,3,,,,,,,,,,,Stair,1,0,0,40.820662,-73.936275
+1270,Lenox,145th St,3,,,,,,,,,,,Stair,0,0,0,40.820161,-73.936253
+1271,Lenox,145th St,3,,,,,,,,,,,Stair,0,0,0,40.820602,-73.935933
+1272,Lenox,Harlem-148th St,3,,,,,,,,,,,Door,1,0,1,40.824069,-73.936981
+1273,Lexington,103rd St,6,,,,,,,,,,,Stair,1,0,1,40.790279,-73.947856
+1274,Lexington,103rd St,6,,,,,,,,,,,Stair,1,0,1,40.790193,-73.947649
+1275,Lexington,110th St,6,,,,,,,,,,,Stair,1,0,0,40.794804,-73.944613
+1276,Lexington,110th St,6,,,,,,,,,,,Stair,1,0,0,40.794927,-73.944502
+1277,Lexington,110th St,6,,,,,,,,,,,Stair,1,0,0,40.794682,-73.944319
+1278,Lexington,110th St,6,,,,,,,,,,,Stair,1,0,0,40.794811,-73.944235
+1279,Lexington,116th St,6,,,,,,,,,,,Stair,1,0,0,40.798466,-73.941882
+1280,Lexington,116th St,6,,,,,,,,,,,Stair,1,0,0,40.798852,-73.9416
+1281,Lexington,116th St,6,,,,,,,,,,,Stair,1,0,0,40.798404,-73.941647
+1282,Lexington,116th St,6,,,,,,,,,,,Stair,1,0,0,40.798742,-73.941406
+1283,Lexington,125th St,4,5,6,,,,,,,,,Elevator,1,1,1,40.804407,-73.937234
+1284,Lexington,125th St,4,5,6,,,,,,,,,Stair,1,1,1,40.804251,-73.937658
+1285,Lexington,125th St,4,5,6,,,,,,,,,Stair,1,1,1,40.804164,-73.937444
+1286,Lexington,125th St,4,5,6,,,,,,,,,Stair,1,1,1,40.804597,-73.9374
+1287,Lexington,125th St,4,5,6,,,,,,,,,Stair,1,1,1,40.804517,-73.937186
+1288,Lexington,14th St-Union Square,L,N,Q,R,4,5,6,,,,,Easement,1,0,1,40.734406,-73.989437
+1289,Lexington,14th St-Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,0,1,40.73418,-73.989549
+1290,Lexington,14th St-Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,0,1,40.734222,-73.989674
+1291,Lexington,14th St-Union Square,L,N,Q,R,4,5,6,,,,,Easement,1,0,1,40.735184,-73.989793
+1292,Lexington,14th St-Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,0,1,40.734495,-73.990311
+1293,Lexington,14th St-Union Square,L,N,Q,R,4,5,6,,,,,Stair,1,0,1,40.734444,-73.990184
+1294,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.740008,-73.986233
+1295,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.739984,-73.986343
+1296,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.74018,-73.986006
+1297,Lexington,23rd St,6,,,,,,,,,,,Easement,1,0,0,40.740419,-73.986452
+1298,Lexington,23rd St,6,,,,,,,,,,,Easement,1,0,0,40.739501,-73.987134
+1299,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.740097,-73.986601
+1300,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.74018,-73.986617
+1301,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.739674,-73.98704
+1302,Lexington,23rd St,6,,,,,,,,,,,Stair,1,0,0,40.739477,-73.986562
+1303,Lexington,28th St,6,,,,,,,,,,,Stair,1,0,0,40.743128,-73.983806
+1304,Lexington,28th St,6,,,,,,,,,,,Stair,1,0,0,40.743167,-73.983896
+1305,Lexington,28th St,6,,,,,,,,,,,Stair,1,0,0,40.743304,-73.983857
+1306,Lexington,28th St,6,,,,,,,,,,,Stair,1,0,0,40.743257,-73.983738
+1307,Lexington,28th St,6,,,,,,,,,,,Easement,1,0,0,40.743484,-73.98428
+1308,Lexington,28th St,6,,,,,,,,,,,Stair,1,0,0,40.743394,-73.984409
+1309,Lexington,28th St,6,,,,,,,,,,,Stair,1,0,0,40.743351,-73.984302
+1310,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.746263,-73.981663
+1311,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.746242,-73.9816
+1312,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.74655,-73.981533
+1313,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.745585,-73.982198
+1314,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.745641,-73.982103
+1315,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.746447,-73.982147
+1316,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.746632,-73.981882
+1317,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.745723,-73.982531
+1318,Lexington,33rd St,6,,,,,,,,,,,Stair,1,0,0,40.745821,-73.982576
+1319,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.757123,-73.972117
+1320,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.757293,-73.972108
+1321,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.757157,-73.972196
+1322,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.757298,-73.971939
+1323,Lexington,51st St,E,M,6,,,,,,,,,Easement,1,1,1,40.756686,-73.97251
+1324,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.756999,-73.971803
+1325,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.757126,-73.971721
+1326,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.756964,-73.971712
+1327,Lexington,51st St,E,M,6,,,,,,,,,Stair,1,1,1,40.757059,-73.97157
+1328,Lexington,59th St,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762836,-73.96804
+1329,Lexington,59th St,N,Q,R,4,5,6,,,,,,Easement,1,0,1,40.76266,-73.967625
+1330,Lexington,59th St,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762414,-73.968371
+1331,Lexington,59th St,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762266,-73.968479
+1332,Lexington,59th St,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762835,-73.967554
+1333,Lexington,59th St,N,Q,R,4,5,6,,,,,,Stair,1,0,1,40.762069,-73.968016
+1334,Lexington,59th St,N,Q,R,4,5,6,,,,,,Stair,0,0,1,40.762986,-73.96785
+1335,Lexington,68th St-Hunter College,6,,,,,,,,,,,Door,1,0,1,40.76787,-73.964244
+1336,Lexington,68th St-Hunter College,6,,,,,,,,,,,Stair,1,0,1,40.767817,-73.964355
+1337,Lexington,68th St-Hunter College,6,,,,,,,,,,,Stair,1,0,1,40.767703,-73.963979
+1338,Lexington,68th St-Hunter College,6,,,,,,,,,,,Stair,1,0,1,40.767981,-73.964178
+1339,Lexington,68th St-Hunter College,6,,,,,,,,,,,Stair,1,0,1,40.767863,-73.963898
+1340,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773669,-73.960135
+1341,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773779,-73.959954
+1342,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773779,-73.960041
+1343,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773636,-73.96006
+1344,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773526,-73.959734
+1345,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773631,-73.959659
+1346,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773493,-73.959659
+1347,Lexington,77th St,6,,,,,,,,,,,Stair,1,0,0,40.773603,-73.959578
+1348,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.779468,-73.955905
+1349,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.779718,-73.955719
+1350,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.779427,-73.95581
+1351,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.77972,-73.955596
+1352,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.779661,-73.955302
+1353,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.779577,-73.955304
+1354,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.779284,-73.955443
+1355,Lexington,86th St,4,5,6,,,,,,,,,Stair,1,0,0,40.77933,-73.955545
+1356,Lexington,96th St,6,,,,,,,,,,,Stair,1,0,1,40.785843,-73.951232
+1357,Lexington,96th St,6,,,,,,,,,,,Stair,1,0,1,40.78564,-73.95093
+1358,Lexington,96th St,6,,,,,,,,,,,Stair,1,0,1,40.786055,-73.951057
+1359,Lexington,96th St,6,,,,,,,,,,,Stair,1,0,1,40.785903,-73.950695
+1360,Lexington,Astor Place,6,,,,,,,,,,,Stair,1,0,0,40.730084,-73.990838
+1361,Lexington,Astor Place,6,,,,,,,,,,,Stair,1,0,0,40.729968,-73.99141
+1362,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.725726,-73.994579
+1363,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.725755,-73.994367
+1364,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.725845,-73.99432
+1365,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.725137,-73.994938
+1366,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.724888,-73.995291
+1367,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.725958,-73.994829
+1368,Lexington,Bleecker St,B,D,F,M,6,,,,,,,Stair,1,0,0,40.726047,-73.994759
+1369,Lexington,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.69234,-73.99056
+1370,Lexington,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.692299,-73.990301
+1371,Lexington,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.692548,-73.990099
+1372,Lexington,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.692588,-73.990572
+1373,Lexington,Borough Hall,R,2,3,4,5,,,,,,,Stair,1,1,1,40.692489,-73.991193
+1374,Lexington,Bowling Green,4,5,,,,,,,,,,Elevator,1,1,1,40.704659,-74.01392
+1375,Lexington,Bowling Green,4,5,,,,,,,,,,Stair,1,1,1,40.704629,-74.013502
+1376,Lexington,Bowling Green,4,5,,,,,,,,,,Stair,1,1,1,40.704825,-74.014572
+1377,Lexington,Bowling Green,4,5,,,,,,,,,,Stair,1,1,1,40.704795,-74.014454
+1378,Lexington,Bowling Green,4,5,,,,,,,,,,Stair,1,1,1,40.704157,-74.014509
+1379,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.712868,-74.004806
+1380,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.712723,-74.004971
+1381,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.712333,-74.004387
+1382,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.711857,-74.005114
+1383,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.711824,-74.005057
+1384,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.713721,-74.003734
+1385,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.713721,-74.003734
+1386,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.713839,-74.003864
+1387,Lexington,Brooklyn Bridge-City Hall,J,Z,4,5,6,,,,,,,Stair,1,1,1,40.713899,-74.003642
+1388,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Stair,1,1,1,40.718155,-74.000317
+1389,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Stair,1,1,1,40.718197,-74.000388
+1390,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Elevator,1,1,1,40.718304,-74.000138
+1391,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Stair,1,1,1,40.718358,-74.000216
+1392,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Elevator,0,1,1,40.718589,-74.000552
+1393,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Stair,0,1,1,40.718506,-74.000826
+1394,Lexington,Canal St,J,N,Q,R,Z,6,,,,,,Stair,0,1,1,40.718638,-74.000623
+1395,Lexington,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.710166,-74.009424
+1396,Lexington,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.710165,-74.009182
+1397,Lexington,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,0,0,1,40.710944,-74.009403
+1398,Lexington,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,0,0,1,40.711026,-74.00919
+1399,Lexington,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,0,0,1,40.711112,-74.009382
+1400,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.751741,-73.977691
+1401,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.751653,-73.977753
+1402,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.751352,-73.976396
+1403,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Stair,1,1,1,40.751647,-73.977382
+1404,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,0,1,1,40.751721,-73.977197
+1405,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.751801,-73.975294
+1406,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Easement,1,1,1,40.751345,-73.975409
+1407,Lexington,Grand Central-42nd St,GS,4,5,6,7,,,,,,,Stair,1,1,1,40.751701,-73.976087
+1408,Lexington,Spring St,6,,,,,,,,,,,Stair,1,0,0,40.722116,-73.996912
+1409,Lexington,Spring St,6,,,,,,,,,,,Stair,1,0,0,40.722235,-73.996818
+1410,Lexington,Spring St,6,,,,,,,,,,,Stair,1,0,0,40.722468,-73.997397
+1411,Lexington,Spring St,6,,,,,,,,,,,Stair,1,0,0,40.72239,-73.997437
+1412,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.70719,-74.011997
+1413,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.707446,-74.011848
+1414,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.707577,-74.011731
+1415,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.708436,-74.011298
+1416,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.707315,-74.012161
+1417,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.707428,-74.012067
+1418,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.707577,-74.011927
+1419,Lexington,Wall St,4,5,,,,,,,,,,Stair,1,0,1,40.707671,-74.011854
+1420,Liberty,104th St-Oxford Av,A,,,,,,,,,,,Stair,1,0,1,40.681994,-73.836742
+1421,Liberty,104th St-Oxford Av,A,,,,,,,,,,,Stair,1,0,1,40.68212,-73.836836
+1422,Liberty,111th St-Greenwood Av,A,,,,,,,,,,,Stair,1,0,1,40.684732,-73.830898
+1423,Liberty,111th St-Greenwood Av,A,,,,,,,,,,,Stair,1,0,1,40.684874,-73.830943
+1424,Liberty,111th St-Greenwood Av,A,,,,,,,,,,,Stair,1,0,1,40.683972,-73.832816
+1425,Liberty,111th St-Greenwood Av,A,,,,,,,,,,,Stair,1,0,1,40.684111,-73.832889
+1426,Liberty,80th St-Hudson St,A,,,,,,,,,,,Stair,1,0,1,40.679371,-73.858024
+1427,Liberty,80th St-Hudson St,A,,,,,,,,,,,Stair,1,0,1,40.679498,-73.858049
+1428,Liberty,80th St-Hudson St,A,,,,,,,,,,,Stair,1,0,1,40.679215,-73.860291
+1429,Liberty,80th St-Hudson St,A,,,,,,,,,,,Stair,1,0,1,40.679361,-73.860284
+1430,Liberty,88th St-Boyd Av,A,,,,,,,,,,,Stair,1,0,1,40.679828,-73.850401
+1431,Liberty,88th St-Boyd Av,A,,,,,,,,,,,Stair,1,0,1,40.679973,-73.850413
+1432,Liberty,Grant Av,A,,,,,,,,,,,Door,1,0,1,40.676735,-73.865491
+1433,Liberty,Lefferts Blvd,A,,,,,,,,,,,Stair,1,0,1,40.686103,-73.824314
+1434,Liberty,Lefferts Blvd,A,,,,,,,,,,,Stair,1,0,1,40.686234,-73.824378
+1435,Liberty,Lefferts Blvd,A,,,,,,,,,,,Stair,1,0,1,40.68572,-73.827092
+1436,Liberty,Lefferts Blvd,A,,,,,,,,,,,Stair,1,0,1,40.685868,-73.827107
+1437,Liberty,Rockaway Blvd,A,,,,,,,,,,,Stair,1,0,1,40.680158,-73.845131
+1438,Liberty,Rockaway Blvd,A,,,,,,,,,,,Stair,1,0,1,40.680305,-73.845159
+1439,Liberty,Rockaway Blvd,A,,,,,,,,,,,Stair,1,0,1,40.680611,-73.842537
+1440,Liberty,Rockaway Blvd,A,,,,,,,,,,,Stair,1,0,1,40.680774,-73.842558
+1441,Myrtle,Central Av,M,,,,,,,,,,,Stair,1,0,1,40.698033,-73.926371
+1442,Myrtle,Central Av,M,,,,,,,,,,,Stair,1,0,1,40.697876,-73.926525
+1443,Myrtle,Forest Av,M,,,,,,,,,,,Stair,1,0,1,40.704729,-73.902243
+1444,Myrtle,Forest Av,M,,,,,,,,,,,Stair,1,0,1,40.704443,-73.902389
+1445,Myrtle,Fresh Pond Rd,M,,,,,,,,,,,Stair,1,0,1,40.705955,-73.896232
+1446,Myrtle,Fresh Pond Rd,M,,,,,,,,,,,Stair,1,0,1,40.706115,-73.895559
+1447,Myrtle,Knickerbocker Av,M,,,,,,,,,,,Stair,1,0,1,40.698717,-73.918655
+1448,Myrtle,Knickerbocker Av,M,,,,,,,,,,,Stair,1,0,1,40.698913,-73.918771
+1449,Myrtle,Metropolitan Av,M,,,,,,,,,,,Door,1,1,1,40.712082,-73.88954
+1450,Myrtle,Seneca Av,M,,,,,,,,,,,Stair,1,0,1,40.70278,-73.907515
+1451,Myrtle,Seneca Av,M,,,,,,,,,,,Stair,1,0,1,40.702835,-73.907894
+1452,Nassau,Bowery,J,Z,,,,,,,,,,Stair,1,0,1,40.719977,-73.993576
+1453,Nassau,Bowery,J,Z,,,,,,,,,,Stair,1,0,1,40.720291,-73.993411
+1454,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.706142,-74.011128
+1455,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.705961,-74.011229
+1456,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.706001,-74.011497
+1457,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.706439,-74.011263
+1458,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.705747,-74.011554
+1459,Nassau,Broad St,J,Z,,,,,,,,,,Easement,1,0,1,40.708027,-74.009814
+1460,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.706911,-74.010494
+1461,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.707117,-74.010821
+1462,Nassau,Broad St,J,Z,,,,,,,,,,Stair,1,0,1,40.706887,-74.010687
+1463,Nassau,Canal St,J,N,Q,R,Z,6,,,,,,Stair,1,0,1,40.717823,-74.000326
+1464,Nassau,Chambers St,J,Z,4,5,6,,,,,,,Stair,1,0,1,40.712699,-74.004099
+1465,Nassau,Chambers St,J,Z,4,5,6,,,,,,,Stair,1,0,1,40.714199,-74.003187
+1466,Nassau,Essex St,F,J,M,Z,,,,,,,,Stair,1,0,1,40.71841,-73.987181
+1467,Nassau,Essex St,F,J,M,Z,,,,,,,,Stair,1,0,1,40.718551,-73.98765
+1468,Nassau,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,1,0,1,40.710241,-74.008022
+1469,Nassau,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,1,0,1,40.710106,-74.007648
+1470,Nassau,Fulton St,A,C,J,Z,2,3,4,5,,,,Easement,1,0,1,40.709376,-74.008375
+1471,Nassau,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.710388,-74.007935
+1472,Nassau,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.710211,-74.007584
+1473,Nassau,Fulton St,A,C,J,Z,2,3,4,5,,,,Stair,1,0,1,40.709507,-74.008295
+1474,New Lots,Junius St,3,,,,,,,,,,,Stair,1,0,1,40.663426,-73.902636
+1475,New Lots,Junius St,3,,,,,,,,,,,Stair,1,0,1,40.663361,-73.903063
+1476,New Lots,New Lots Av,3,,,,,,,,,,,Stair,1,0,1,40.666285,-73.883276
+1477,New Lots,New Lots Av,3,,,,,,,,,,,Stair,1,0,1,40.666413,-73.883307
+1478,New Lots,Pennsylvania Av,3,,,,,,,,,,,Stair,1,0,1,40.664869,-73.893779
+1479,New Lots,Pennsylvania Av,3,,,,,,,,,,,Stair,1,0,1,40.664575,-73.894117
+1480,New Lots,Rockaway Av,3,,,,,,,,,,,Stair,1,0,1,40.662401,-73.908809
+1481,New Lots,Rockaway Av,3,,,,,,,,,,,Stair,1,0,1,40.662703,-73.909033
+1482,New Lots,Saratoga Av,3,,,,,,,,,,,Stair,1,0,1,40.661558,-73.915225
+1483,New Lots,Saratoga Av,3,,,,,,,,,,,Stair,1,0,1,40.661689,-73.91524
+1484,New Lots,Saratoga Av,3,,,,,,,,,,,Stair,1,0,1,40.661401,-73.915543
+1485,New Lots,Sutter Av,3,,,,,,,,,,,Stair,1,0,1,40.664891,-73.922675
+1486,New Lots,Sutter Av,3,,,,,,,,,,,Stair,1,0,1,40.664887,-73.923109
+1487,New Lots,Sutter Av,3,,,,,,,,,,,Stair,1,0,1,40.66516,-73.92297
+1488,New Lots,Van Siclen Av,3,,,,,,,,,,,Stair,1,0,1,40.665431,-73.888386
+1489,New Lots,Van Siclen Av,3,,,,,,,,,,,Stair,1,0,1,40.66574,-73.888613
+1490,Nostrand,Beverly Rd,2,5,,,,,,,,,,Stair,1,0,0,40.645046,-73.948684
+1491,Nostrand,Beverly Rd,2,5,,,,,,,,,,Stair,1,0,0,40.645016,-73.949213
+1492,Nostrand,Church Av,2,5,,,,,,,,,,Elevator,1,1,0,40.650748,-73.949384
+1493,Nostrand,Church Av,2,5,,,,,,,,,,Stair,1,1,0,40.65064,-73.949429
+1494,Nostrand,Church Av,2,5,,,,,,,,,,Stair,1,1,0,40.65091,-73.949416
+1495,Nostrand,Church Av,2,5,,,,,,,,,,Elevator,1,1,0,40.65064,-73.949677
+1496,Nostrand,Church Av,2,5,,,,,,,,,,Elevator,1,1,0,40.650717,-73.949741
+1497,Nostrand,Church Av,2,5,,,,,,,,,,Stair,1,1,0,40.650894,-73.949819
+1498,Nostrand,Church Av,2,5,,,,,,,,,,Stair,1,1,0,40.650969,-73.949714
+1499,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Elevator,1,1,1,40.632463,-73.947518
+1500,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.632359,-73.947389
+1501,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.632324,-73.947482
+1502,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.63275,-73.947375
+1503,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.632868,-73.947547
+1504,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.631845,-73.947665
+1505,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.63327,-73.947929
+1506,Nostrand,Flatbush Av-Brooklyn College,2,5,,,,,,,,,,Stair,1,1,1,40.633297,-73.947836
+1507,Nostrand,Newkirk Av,2,5,,,,,,,,,,Stair,1,0,0,40.639924,-73.948161
+1508,Nostrand,Newkirk Av,2,5,,,,,,,,,,Stair,1,0,0,40.639883,-73.948701
+1509,Nostrand,Newkirk Av,2,5,,,,,,,,,,Stair,0,0,0,40.640743,-73.948597
+1510,Nostrand,President St,2,5,,,,,,,,,,Stair,1,0,1,40.668166,-73.950862
+1511,Nostrand,President St,2,5,,,,,,,,,,Stair,1,0,1,40.668145,-73.950458
+1512,Nostrand,Sterling St,2,5,,,,,,,,,,Stair,1,0,1,40.66329,-73.951044
+1513,Nostrand,Sterling St,2,5,,,,,,,,,,Stair,1,0,1,40.663226,-73.95067
+1514,Nostrand,Winthrop St,2,5,,,,,,,,,,Stair,1,0,0,40.657184,-73.949976
+1515,Nostrand,Winthrop St,2,5,,,,,,,,,,Stair,1,0,0,40.656171,-73.950346
+1516,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810282,-73.925386
+1517,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810102,-73.925641
+1518,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810241,-73.925267
+1519,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810019,-73.925438
+1520,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810831,-73.926655
+1521,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810712,-73.92705
+1522,Pelham,138th St-3rd Ave,6,,,,,,,,,,,Stair,1,0,1,40.810638,-73.926883
+1523,Pelham,Brook Av,6,,,,,,,,,,,Stair,1,0,0,40.807747,-73.919347
+1524,Pelham,Brook Av,6,,,,,,,,,,,Stair,1,0,0,40.80758,-73.918957
+1525,Pelham,Brook Av,6,,,,,,,,,,,Stair,1,0,0,40.807467,-73.919448
+1526,Pelham,Brook Av,6,,,,,,,,,,,Stair,1,0,0,40.807355,-73.919219
+1527,Pelham,Buhre Av,6,,,,,,,,,,,Stair,1,0,0,40.846891,-73.832639
+1528,Pelham,Buhre Av,6,,,,,,,,,,,Stair,1,0,0,40.846795,-73.832405
+1529,Pelham,Buhre Av,6,,,,,,,,,,,Stair,1,0,0,40.847185,-73.832264
+1530,Pelham,Castle Hill Av,6,,,,,,,,,,,Stair,1,0,1,40.834093,-73.851857
+1531,Pelham,Castle Hill Av,6,,,,,,,,,,,Stair,1,0,1,40.834321,-73.85144
+1532,Pelham,Cypress Av,6,,,,,,,,,,,Stair,1,0,0,40.805234,-73.913391
+1533,Pelham,Cypress Av,6,,,,,,,,,,,Stair,1,0,0,40.805155,-73.913208
+1534,Pelham,Cypress Av,6,,,,,,,,,,,Stair,1,0,0,40.805171,-73.913933
+1535,Pelham,Cypress Av,6,,,,,,,,,,,Stair,1,0,0,40.805047,-73.913524
+1536,Pelham,East 143rd St-St Mary's St,6,,,,,,,,,,,Stair,1,0,0,40.808179,-73.908065
+1537,Pelham,East 143rd St-St Mary's St,6,,,,,,,,,,,Stair,1,0,0,40.808322,-73.908002
+1538,Pelham,East 143rd St-St Mary's St,6,,,,,,,,,,,Stair,1,0,0,40.80803,-73.90772
+1539,Pelham,East 143rd St-St Mary's St,6,,,,,,,,,,,Stair,1,0,0,40.80834,-73.907618
+1540,Pelham,East 149th St,6,,,,,,,,,,,Stair,1,0,0,40.812331,-73.904102
+1541,Pelham,East 149th St,6,,,,,,,,,,,Stair,1,0,0,40.812367,-73.903797
+1542,Pelham,East 149th St,6,,,,,,,,,,,Stair,1,0,0,40.811887,-73.904145
+1543,Pelham,East 149th St,6,,,,,,,,,,,Stair,1,0,0,40.812027,-73.903869
+1544,Pelham,Elder Av,6,,,,,,,,,,,Stair,1,0,1,40.828688,-73.879018
+1545,Pelham,Elder Av,6,,,,,,,,,,,Stair,1,0,1,40.82846,-73.879362
+1546,Pelham,Hunts Point Av,6,,,,,,,,,,,Stair,1,0,1,40.820591,-73.890836
+1547,Pelham,Hunts Point Av,6,,,,,,,,,,,Stair,1,0,1,40.820819,-73.890442
+1548,Pelham,Hunts Point Av,6,,,,,,,,,,,Stair,0,0,1,40.820614,-73.891519
+1549,Pelham,Longwood Av,6,,,,,,,,,,,Stair,1,0,0,40.816263,-73.896506
+1550,Pelham,Longwood Av,6,,,,,,,,,,,Stair,1,0,0,40.81652,-73.896224
+1551,Pelham,Longwood Av,6,,,,,,,,,,,Stair,1,0,0,40.816137,-73.896133
+1552,Pelham,Longwood Av,6,,,,,,,,,,,Stair,1,0,0,40.816367,-73.895924
+1553,Pelham,Middletown Rd,6,,,,,,,,,,,Stair,1,0,1,40.843935,-73.836386
+1554,Pelham,Middletown Rd,6,,,,,,,,,,,Stair,1,0,1,40.843609,-73.836478
+1555,Pelham,Morrison Av-Soundview Av,6,,,,,,,,,,,Stair,1,0,1,40.829517,-73.87486
+1556,Pelham,Morrison Av-Soundview Av,6,,,,,,,,,,,Stair,1,0,1,40.829371,-73.874731
+1557,Pelham,Morrison Av-Soundview Av,6,,,,,,,,,,,Stair,1,0,1,40.829641,-73.874447
+1558,Pelham,Parkchester-East 177th St,6,,,,,,,,,,,Stair,1,0,1,40.833225,-73.860888
+1559,Pelham,Pelham Bay Park,6,,,,,,,,,,,Door,1,1,1,40.852377,-73.825986
+1560,Pelham,Pelham Bay Park,6,,,,,,,,,,,Elevator,1,1,1,40.852803,-73.827195
+1561,Pelham,Pelham Bay Park,6,,,,,,,,,,,Elevator,1,1,1,40.853041,-73.826991
+1562,Pelham,Pelham Bay Park,6,,,,,,,,,,,Stair,1,1,1,40.853012,-73.827172
+1563,Pelham,Pelham Bay Park,6,,,,,,,,,,,Stair,1,1,1,40.852824,-73.827035
+1564,Pelham,St Lawrence Av,6,,,,,,,,,,,Stair,1,0,1,40.831765,-73.867078
+1565,Pelham,St Lawrence Av,6,,,,,,,,,,,Stair,1,0,1,40.831466,-73.86741
+1566,Pelham,Westchester Square-East Tremont Av,6,,,,,,,,,,,Stair,1,0,1,40.840128,-73.842875
+1567,Pelham,Whitlock Av,6,,,,,,,,,,,Stair,1,0,1,40.827298,-73.886256
+1568,Pelham,Whitlock Av,6,,,,,,,,,,,Stair,1,0,1,40.827295,-73.886082
+1569,Pelham,Zerega Av,6,,,,,,,,,,,Stair,1,0,1,40.836954,-73.846653
+1570,Pelham,Zerega Av,6,,,,,,,,,,,Stair,1,0,1,40.836613,-73.846726
+1571,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.710563,-73.792853
+1572,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.710968,-73.792761
+1573,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.710495,-73.793022
+1574,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.71083,-73.793248
+1575,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.709812,-73.794712
+1576,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.710154,-73.794922
+1577,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.709852,-73.794564
+1578,Queens Boulevard,169th St,F,,,,,,,,,,,Stair,1,0,1,40.710184,-73.79473
+1579,Queens Boulevard,23rd St-Ely Av,E,G,M,7,,,,,,,,Easement,1,0,1,40.747371,-73.944287
+1580,Queens Boulevard,23rd St-Ely Av,E,G,M,7,,,,,,,,Stair,1,0,1,40.747954,-73.94724
+1581,Queens Boulevard,23rd St-Ely Av,E,G,M,7,,,,,,,,Stair,1,0,1,40.748195,-73.947163
+1582,Queens Boulevard,23rd St-Ely Av,E,G,M,7,,,,,,,,Stair,1,0,1,40.747706,-73.944626
+1583,Queens Boulevard,36th St,M,R,,,,,,,,,,Stair,1,0,0,40.752232,-73.928775
+1584,Queens Boulevard,36th St,M,R,,,,,,,,,,Stair,1,0,0,40.752198,-73.929263
+1585,Queens Boulevard,36th St,M,R,,,,,,,,,,Stair,1,0,0,40.751868,-73.930585
+1586,Queens Boulevard,36th St,M,R,,,,,,,,,,Stair,1,0,0,40.752238,-73.927662
+1587,Queens Boulevard,36th St,M,R,,,,,,,,,,Stair,1,0,0,40.75193,-73.927141
+1588,Queens Boulevard,46th St,M,R,,,,,,,,,,Stair,1,0,0,40.756868,-73.914303
+1589,Queens Boulevard,46th St,M,R,,,,,,,,,,Stair,1,0,0,40.756029,-73.91218
+1590,Queens Boulevard,46th St,M,R,,,,,,,,,,Stair,1,0,0,40.756624,-73.914407
+1591,Queens Boulevard,46th St,M,R,,,,,,,,,,Stair,1,0,0,40.755813,-73.912642
+1592,Queens Boulevard,5th Av-53rd St,E,M,,,,,,,,,,Easement,1,0,1,40.760422,-73.976146
+1593,Queens Boulevard,5th Av-53rd St,E,M,,,,,,,,,,Stair,1,0,1,40.760373,-73.975562
+1594,Queens Boulevard,5th Av-53rd St,E,M,,,,,,,,,,Stair,1,0,1,40.760267,-73.975638
+1595,Queens Boulevard,5th Av-53rd St,E,M,,,,,,,,,,Easement,1,0,1,40.759721,-73.973858
+1596,Queens Boulevard,5th Av-53rd St,E,M,,,,,,,,,,Stair,1,0,1,40.759556,-73.974068
+1597,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,1,0,1,40.729953,-73.862699
+1598,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,1,0,1,40.729265,-73.860814
+1599,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,0,0,1,40.730417,-73.862373
+1600,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,0,0,1,40.730037,-73.861343
+1601,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,0,0,1,40.729574,-73.861751
+1602,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,0,0,1,40.728847,-73.859668
+1603,Queens Boulevard,63rd Drive-Rego Park,M,R,,,,,,,,,,Stair,0,0,1,40.729774,-73.860489
+1604,Queens Boulevard,65th St,M,R,,,,,,,,,,Stair,1,0,1,40.749145,-73.897495
+1605,Queens Boulevard,65th St,M,R,,,,,,,,,,Stair,1,0,1,40.74933,-73.897382
+1606,Queens Boulevard,67th Av,M,R,,,,,,,,,,Stair,1,0,1,40.726598,-73.853534
+1607,Queens Boulevard,67th Av,M,R,,,,,,,,,,Stair,1,0,1,40.727073,-73.853226
+1608,Queens Boulevard,67th Av,M,R,,,,,,,,,,Stair,1,0,1,40.72603,-73.852186
+1609,Queens Boulevard,67th Av,M,R,,,,,,,,,,Stair,1,0,1,40.726367,-73.851592
+1610,Queens Boulevard,75th Av,E,F,,,,,,,,,,Stair,1,0,0,40.717895,-73.836743
+1611,Queens Boulevard,75th Av,E,F,,,,,,,,,,Stair,1,0,0,40.719061,-73.837916
+1612,Queens Boulevard,75th Av,E,F,,,,,,,,,,Stair,1,0,0,40.718574,-73.838257
+1613,Queens Boulevard,7th Av,B,D,E,,,,,,,,,Stair,1,0,1,40.762937,-73.981578
+1614,Queens Boulevard,7th Av,B,D,E,,,,,,,,,Stair,1,0,1,40.762793,-73.98169
+1615,Queens Boulevard,7th Av,B,D,E,,,,,,,,,Stair,1,0,1,40.763141,-73.982666
+1616,Queens Boulevard,7th Av,B,D,E,,,,,,,,,Stair,1,0,1,40.763388,-73.982495
+1617,Queens Boulevard,Briarwood-Van Wyck Blvd,F,,,,,,,,,,,Stair,1,0,0,40.708068,-73.820111
+1618,Queens Boulevard,Briarwood-Van Wyck Blvd,F,,,,,,,,,,,Stair,1,0,0,40.709316,-73.819773
+1619,Queens Boulevard,Briarwood-Van Wyck Blvd,F,,,,,,,,,,,Stair,1,0,0,40.709681,-73.819601
+1620,Queens Boulevard,Elmhurst Av,M,R,,,,,,,,,,Stair,1,0,0,40.741729,-73.881135
+1621,Queens Boulevard,Elmhurst Av,M,R,,,,,,,,,,Stair,1,0,0,40.742066,-73.881039
+1622,Queens Boulevard,Elmhurst Av,M,R,,,,,,,,,,Stair,1,0,0,40.741861,-73.881457
+1623,Queens Boulevard,Elmhurst Av,M,R,,,,,,,,,,Stair,1,0,0,40.742937,-73.882708
+1624,Queens Boulevard,Elmhurst Av,M,R,,,,,,,,,,Stair,1,0,0,40.742791,-73.883025
+1625,Queens Boulevard,Forest Hills-71st Av,E,F,M,R,,,,,,,,Stair,1,0,1,40.7211,-73.844039
+1626,Queens Boulevard,Forest Hills-71st Av,E,F,M,R,,,,,,,,Stair,1,0,1,40.72149,-73.843389
+1627,Queens Boulevard,Forest Hills-71st Av,e,F,M,R,,,,,,,,Stair,1,0,1,40.722269,-73.845153
+1628,Queens Boulevard,Forest Hills-71st Av,E,F,M,R,,,,,,,,Stair,1,0,1,40.721409,-73.844632
+1629,Queens Boulevard,Forest Hills-71st Av,E,F,M,R,,,,,,,,Stair,1,0,1,40.721916,-73.844352
+1630,Queens Boulevard,Grand Av-Newtown,M,R,,,,,,,,,,Stair,1,0,1,40.735888,-73.876886
+1631,Queens Boulevard,Grand Av-Newtown,M,R,,,,,,,,,,Stair,1,0,1,40.736277,-73.876424
+1632,Queens Boulevard,Grand Av-Newtown,M,R,,,,,,,,,,Stair,1,0,1,40.736075,-73.877167
+1633,Queens Boulevard,Grand Av-Newtown,M,R,,,,,,,,,,Stair,1,0,1,40.737354,-73.877191
+1634,Queens Boulevard,Grand Av-Newtown,M,R,,,,,,,,,,Stair,1,0,1,40.737477,-73.877424
+1635,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Door,1,1,1,40.746784,-73.890958
+1636,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Door,1,1,1,40.746597,-73.890955
+1637,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Stair,1,1,1,40.747238,-73.892146
+1638,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Stair,1,1,1,40.747034,-73.892555
+1639,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Stair,0,1,1,40.745988,-73.890208
+1640,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Stair,0,1,1,40.746391,-73.890285
+1641,Queens Boulevard,Jackson Heights-Roosevelt Ave,E,F,M,R,7,,,,,,,Stair,0,1,1,40.746527,-73.891461
+1642,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Elevator,1,1,1,40.712581,-73.783377
+1643,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712865,-73.782418
+1644,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.713207,-73.782119
+1645,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712723,-73.782637
+1646,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.713113,-73.782624
+1647,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712723,-73.783035
+1648,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.71294,-73.783179
+1649,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712669,-73.783274
+1650,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712892,-73.783363
+1651,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712548,-73.783427
+1652,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.71264,-73.784411
+1653,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712295,-73.78428
+1654,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712575,-73.784669
+1655,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.71224,-73.784456
+1656,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712483,-73.785064
+1657,Queens Boulevard,Jamaica-179th St,F,,,,,,,,,,,Stair,1,1,1,40.712242,-73.784968
+1658,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Elevator,1,1,1,40.714001,-73.831166
+1659,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.713663,-73.830011
+1660,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.714073,-73.829917
+1661,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.713967,-73.831303
+1662,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.714145,-73.830886
+1663,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.715019,-73.83162
+1664,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.714673,-73.832151
+1665,Queens Boulevard,Kew Gardens-Union Turnpike,E,F,,,,,,,,,,Stair,1,1,1,40.714929,-73.831501
+1666,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Easement,1,1,1,40.758329,-73.970567
+1667,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Easement,1,1,1,40.75812,-73.970958
+1668,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Easement,1,1,1,40.757784,-73.971098
+1669,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Elevator,1,1,1,40.757804,-73.971141
+1670,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Easement,1,1,1,40.757475,-73.969255
+1671,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Easement,1,1,1,40.757718,-73.969161
+1672,Queens Boulevard,Lexington Av-53rd St,E,M,6,,,,,,,,,Easement,1,1,1,40.757685,-73.969125
+1673,Queens Boulevard,Northern Blvd,M,R,,,,,,,,,,Stair,1,0,0,40.753086,-73.907119
+1674,Queens Boulevard,Northern Blvd,M,R,,,,,,,,,,Stair,1,0,0,40.753428,-73.906847
+1675,Queens Boulevard,Parsons Blvd,F,,,,,,,,,,,Stair,1,0,1,40.707473,-73.802797
+1676,Queens Boulevard,Parsons Blvd,F,,,,,,,,,,,Stair,1,0,1,40.707873,-73.802999
+1677,Queens Boulevard,Parsons Blvd,F,,,,,,,,,,,Stair,1,0,1,40.707563,-73.802611
+1678,Queens Boulevard,Parsons Blvd,F,,,,,,,,,,,Stair,1,0,1,40.707062,-73.804332
+1679,Queens Boulevard,Parsons Blvd,F,,,,,,,,,,,Stair,1,0,1,40.707358,-73.804498
+1680,Queens Boulevard,Parsons Blvd,F,,,,,,,,,,,Stair,1,0,1,40.707063,-73.80462
+1681,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.748705,-73.938471
+1682,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.749086,-73.937896
+1683,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.748697,-73.937364
+1684,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.748807,-73.937057
+1685,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.748466,-73.938244
+1686,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.749577,-73.936094
+1687,Queens Boulevard,Queens Plaza,E,M,R,,,,,,,,,Stair,1,1,1,40.749857,-73.936198
+1688,Queens Boulevard,Steinway St,M,R,,,,,,,,,,Stair,1,0,1,40.758143,-73.919842
+1689,Queens Boulevard,Steinway St,M,R,,,,,,,,,,Stair,1,0,1,40.758279,-73.919433
+1690,Queens Boulevard,Steinway St,M,R,,,,,,,,,,Stair,1,0,1,40.756583,-73.921108
+1691,Queens Boulevard,Steinway St,M,R,,,,,,,,,,Stair,1,0,1,40.756673,-73.920622
+1692,Queens Boulevard,Sutphin Blvd,F,,,,,,,,,,,Stair,1,0,1,40.705591,-73.809481
+1693,Queens Boulevard,Sutphin Blvd,F,,,,,,,,,,,Stair,1,0,1,40.705945,-73.809489
+1694,Queens Boulevard,Sutphin Blvd,F,,,,,,,,,,,Stair,1,0,1,40.705538,-73.809717
+1695,Queens Boulevard,Sutphin Blvd,F,,,,,,,,,,,Stair,1,0,1,40.705341,-73.81186
+1696,Queens Boulevard,Sutphin Blvd,F,,,,,,,,,,,Stair,1,0,1,40.704906,-73.811956
+1697,Queens Boulevard,Woodhaven Blvd,M,R,,,,,,,,,,Stair,1,0,1,40.733041,-73.870334
+1698,Queens Boulevard,Woodhaven Blvd,M,R,,,,,,,,,,Stair,1,0,1,40.733354,-73.870983
+1699,Queens Boulevard,Woodhaven Blvd,M,R,,,,,,,,,,Stair,1,0,1,40.733555,-73.869588
+1700,Queens Boulevard,Woodhaven Blvd,M,R,,,,,,,,,,Stair,1,0,1,40.733188,-73.868605
+1701,Rockaway,Aqueduct Racetrack,A,,,,,,,,,,,Ramp,0,0,0,40.672208,-73.834589
+1702,Rockaway,Aqueduct-North Conduit Av,A,,,,,,,,,,,Door,1,0,1,40.667018,-73.83348
+1703,Rockaway,Aqueduct-North Conduit Av,A,,,,,,,,,,,Stair,0,0,1,40.669339,-73.834721
+1704,Rockaway,Beach 105th St,H,,,,,,,,,,,Stair,1,0,1,40.583187,-73.827388
+1705,Rockaway,Beach 105th St,H,,,,,,,,,,,Stair,1,0,1,40.583369,-73.827474
+1706,Rockaway,Beach 105th St,H,,,,,,,,,,,Stair,1,0,1,40.583248,-73.827163
+1707,Rockaway,Beach 105th St,H,,,,,,,,,,,Stair,1,0,1,40.583435,-73.827232
+1708,Rockaway,Beach 25th St,A,,,,,,,,,,,Stair,1,0,1,40.599708,-73.761959
+1709,Rockaway,Beach 25th St,A,,,,,,,,,,,Stair,1,0,1,40.599427,-73.761807
+1710,Rockaway,Beach 25th St,A,,,,,,,,,,,Stair,1,0,1,40.59967,-73.761596
+1711,Rockaway,Beach 36th St,A,,,,,,,,,,,Stair,1,0,1,40.595617,-73.768032
+1712,Rockaway,Beach 36th St,A,,,,,,,,,,,Stair,1,0,1,40.595297,-73.768206
+1713,Rockaway,Beach 36th St,A,,,,,,,,,,,Stair,1,0,1,40.595445,-73.768313
+1714,Rockaway,Beach 36th St,A,,,,,,,,,,,Stair,1,0,1,40.595469,-73.767919
+1715,Rockaway,Beach 44th St,A,,,,,,,,,,,Stair,1,0,1,40.593106,-73.775743
+1716,Rockaway,Beach 44th St,A,,,,,,,,,,,Stair,1,0,1,40.59286,-73.776109
+1717,Rockaway,Beach 44th St,A,,,,,,,,,,,Stair,1,0,1,40.593079,-73.775985
+1718,Rockaway,Beach 44th St,A,,,,,,,,,,,Stair,1,0,1,40.592897,-73.775715
+1719,Rockaway,Beach 60th St,A,,,,,,,,,,,Stair,1,0,1,40.592269,-73.789578
+1720,Rockaway,Beach 60th St,A,,,,,,,,,,,Stair,1,0,1,40.59249,-73.789161
+1721,Rockaway,Beach 60th St,A,,,,,,,,,,,Stair,1,0,1,40.592292,-73.789153
+1722,Rockaway,Beach 60th St,A,,,,,,,,,,,Stair,1,0,1,40.592478,-73.78941
+1723,Rockaway,Beach 67th St,A,,,,,,,,,,,Stair,1,0,1,40.590744,-73.797789
+1724,Rockaway,Beach 67th St,A,,,,,,,,,,,Stair,1,0,1,40.590901,-73.796609
+1725,Rockaway,Beach 67th St,A,,,,,,,,,,,Stair,1,0,1,40.591123,-73.79646
+1726,Rockaway,Beach 67th St,A,,,,,,,,,,,Stair,1,0,1,40.590951,-73.796176
+1727,Rockaway,Beach 90th St,H,,,,,,,,,,,Stair,1,0,1,40.58808,-73.813907
+1728,Rockaway,Beach 90th St,H,,,,,,,,,,,Stair,1,0,1,40.587929,-73.813755
+1729,Rockaway,Beach 90th St,H,,,,,,,,,,,Stair,1,0,1,40.587999,-73.814117
+1730,Rockaway,Beach 90th St,H,,,,,,,,,,,Stair,1,0,1,40.587814,-73.814037
+1731,Rockaway,Beach 98th St,H,,,,,,,,,,,Stair,1,0,1,40.58554,-73.820345
+1732,Rockaway,Beach 98th St,H,,,,,,,,,,,Stair,1,0,1,40.585342,-73.820249
+1733,Rockaway,Beach 98th St,H,,,,,,,,,,,Stair,1,0,1,40.585208,-73.820595
+1734,Rockaway,Broad Channel,A,H,,,,,,,,,,Stair,1,0,1,40.608007,-73.815967
+1735,Rockaway,Far Rockaway-Mott Av,A,,,,,,,,,,,Door,1,0,1,40.604657,-73.754178
+1736,Rockaway,Howard Beach,A,,,,,,,,,,,Elevator,1,1,1,40.660465,-73.830518
+1737,Rockaway,Howard Beach,A,,,,,,,,,,,Elevator,1,1,1,40.660486,-73.830453
+1738,Rockaway,Howard Beach,A,,,,,,,,,,,Stair,1,1,1,40.660372,-73.830369
+1739,Rockaway,Howard Beach,A,,,,,,,,,,,Stair,1,1,1,40.66016,-73.830372
+1740,Rockaway,Rockaway Park-Beach 116th,H,,,,,,,,,,,Door,1,1,1,40.58051,-73.837418
+1741,Sea Beach,18th Av,N,,,,,,,,,,,Door,1,0,1,40.620062,-73.98941
+1742,Sea Beach,18th Av,N,,,,,,,,,,,Door,1,0,1,40.621306,-73.991469
+1743,Sea Beach,20th Av,N,,,,,,,,,,,Door,1,0,1,40.617341,-73.98484
+1744,Sea Beach,86th St,N,,,,,,,,,,,Door,1,0,1,40.592724,-73.978227
+1745,Sea Beach,8th Av,N,,,,,,,,,,,Door,1,0,1,40.634552,-74.010726
+1746,Sea Beach,Av U,N,,,,,,,,,,,Door,1,0,1,40.596459,-73.978943
+1747,Sea Beach,Av U,N,,,,,,,,,,,Door,1,0,1,40.598512,-73.979335
+1748,Sea Beach,Bay Parkway-22nd Av,N,,,,,,,,,,,Door,1,0,1,40.612989,-73.982084
+1749,Sea Beach,Bay Parkway-22nd Av,N,,,,,,,,,,,Door,1,0,1,40.610572,-73.981613
+1750,Sea Beach,Fort Hamilton Parkway,N,,,,,,,,,,,Door,1,0,1,40.632179,-74.006658
+1751,Sea Beach,Fort Hamilton Parkway,N,,,,,,,,,,,Door,1,0,1,40.630609,-74.004067
+1752,Sea Beach,Kings Highway,N,,,,,,,,,,,Door,1,0,1,40.605107,-73.980578
+1753,Sea Beach,Kings Highway,N,,,,,,,,,,,Door,1,0,1,40.603212,-73.980199
+1754,Sea Beach,New Utrecht Av,D,N,,,,,,,,,,Door,1,0,1,40.625606,-73.99683
+1755,Sea Beach,New Utrecht Av,D,N,,,,,,,,,,Door,1,0,1,40.624246,-73.995962
+1756,West End,18th Av,D,,,,,,,,,,,Stair,1,0,1,40.607602,-74.001491
+1757,West End,18th Av,D,,,,,,,,,,,Stair,1,0,1,40.607723,-74.001894
+1758,West End,18th Av,D,,,,,,,,,,,Stair,1,0,1,40.607897,-74.001628
+1759,West End,20th Av,D,,,,,,,,,,,Stair,1,0,1,40.604439,-73.998164
+1760,West End,20th Av,D,,,,,,,,,,,Stair,1,0,1,40.604587,-73.998007
+1761,West End,20th Av,D,,,,,,,,,,,Stair,1,0,1,40.604631,-73.998498
+1762,West End,20th Av,D,,,,,,,,,,,Stair,1,0,1,40.604789,-73.998349
+1763,West End,25th Av,D,,,,,,,,,,,Stair,1,0,1,40.597889,-73.986958
+1764,West End,25th Av,D,,,,,,,,,,,Stair,1,0,1,40.5981,-73.987279
+1765,West End,25th Av,D,,,,,,,,,,,Stair,1,0,1,40.597751,-73.987112
+1766,West End,25th Av,D,,,,,,,,,,,Stair,1,0,1,40.597952,-73.987442
+1767,West End,50th St,D,,,,,,,,,,,Stair,1,0,1,40.636133,-73.994915
+1768,West End,50th St,D,,,,,,,,,,,Stair,1,0,1,40.636139,-73.994702
+1769,West End,50th St,D,,,,,,,,,,,Stair,1,0,1,40.636415,-73.994879
+1770,West End,50th St,D,,,,,,,,,,,Stair,1,0,1,40.636405,-73.994673
+1771,West End,55th St,D,,,,,,,,,,,Stair,1,0,1,40.631389,-73.995262
+1772,West End,55th St,D,,,,,,,,,,,Stair,1,0,1,40.631538,-73.995643
+1773,West End,55th St,D,,,,,,,,,,,Stair,1,0,1,40.631709,-73.995283
+1774,West End,62nd St,D,N,,,,,,,,,,Stair,1,0,1,40.627299,-73.996465
+1775,West End,62nd St,D,N,,,,,,,,,,Stair,1,0,1,40.62711,-73.99687
+1776,West End,62nd St,D,N,,,,,,,,,,Stair,1,0,1,40.627367,-73.996729
+1777,West End,71st St,D,,,,,,,,,,,Stair,1,0,1,40.618834,-73.999195
+1778,West End,71st St,D,,,,,,,,,,,Stair,1,0,1,40.619133,-73.99924
+1779,West End,71st St,D,,,,,,,,,,,Stair,1,0,1,40.61877,-73.998995
+1780,West End,71st St,D,,,,,,,,,,,Stair,1,0,1,40.618889,-73.998832
+1781,West End,71st St,D,,,,,,,,,,,Stair,0,0,1,40.62036,-73.99855
+1782,West End,71st St,D,,,,,,,,,,,Stair,0,0,1,40.620379,-73.998764
+1783,West End,79th St,D,,,,,,,,,,,Stair,1,0,1,40.612855,-74.000892
+1784,West End,79th St,D,,,,,,,,,,,Stair,1,0,1,40.612847,-74.000721
+1785,West End,79th St,D,,,,,,,,,,,Stair,0,0,1,40.614018,-74.000378
+1786,West End,79th St,D,,,,,,,,,,,Stair,0,0,1,40.614054,-74.000585
+1787,West End,9th Av,D,,,,,,,,,,,Door,1,0,1,40.646337,-73.994489
+1788,West End,Bay 50th St,D,,,,,,,,,,,Stair,1,0,1,40.588022,-73.983735
+1789,West End,Bay 50th St,D,,,,,,,,,,,Stair,1,0,1,40.588066,-73.983498
+1790,West End,Bay 50th St,D,,,,,,,,,,,Stair,1,0,1,40.588305,-73.983791
+1791,West End,Bay 50th St,D,,,,,,,,,,,Stair,1,0,1,40.588348,-73.983543
+1792,West End,Bay Parkway,D,,,,,,,,,,,Stair,1,0,1,40.601726,-73.993696
+1793,West End,Bay Parkway,D,,,,,,,,,,,Stair,1,0,1,40.601898,-73.993538
+1794,West End,Bay Parkway,D,,,,,,,,,,,Stair,1,0,1,40.601993,-73.99413
+1795,West End,Bay Parkway,D,,,,,,,,,,,Stair,1,0,1,40.60215,-73.993948
+1796,West End,Fort Hamilton Parkway,D,,,,,,,,,,,Stair,1,0,1,40.640185,-73.994423
+1797,West End,Fort Hamilton Parkway,D,,,,,,,,,,,Stair,1,0,1,40.64018,-73.99422
+1798,West End,Fort Hamilton Parkway,D,,,,,,,,,,,Stair,1,0,1,40.64136,-73.994411
+1799,West End,Fort Hamilton Parkway,D,,,,,,,,,,,Stair,1,0,1,40.641379,-73.994188
+1800,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Elevator,1,1,0,40.816247,-73.917798
+1801,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Stair,1,1,0,40.816315,-73.917543
+1802,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Stair,1,1,0,40.816242,-73.917934
+1803,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Stair,1,1,0,40.816265,-73.917456
+1804,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Elevator,1,1,0,40.815971,-73.917983
+1805,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Stair,1,1,0,40.815881,-73.917522
+1806,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Stair,1,1,0,40.816033,-73.918064
+1807,White Plains Road,149th St-3rd Av,2,5,,,,,,,,,,Stair,1,1,0,40.815853,-73.917759
+1808,White Plains Road,174th St,2,5,,,,,,,,,,Stair,1,0,0,40.837325,-73.888048
+1809,White Plains Road,174th St,2,5,,,,,,,,,,Stair,1,0,0,40.837599,-73.887755
+1810,White Plains Road,174th St,2,5,,,,,,,,,,Stair,1,0,0,40.837241,-73.88756
+1811,White Plains Road,174th St,2,5,,,,,,,,,,Stair,1,0,0,40.837306,-73.887287
+1812,White Plains Road,219th St,2,5,,,,,,,,,,Stair,1,0,1,40.883723,-73.86287
+1813,White Plains Road,219th St,2,5,,,,,,,,,,Stair,1,0,1,40.883439,-73.862743
+1814,White Plains Road,225th St,2,5,,,,,,,,,,Stair,1,0,1,40.887709,-73.860666
+1815,White Plains Road,225th St,2,5,,,,,,,,,,Stair,1,0,1,40.88766,-73.860444
+1816,White Plains Road,225th St,2,5,,,,,,,,,,Stair,1,0,1,40.887972,-73.860517
+1817,White Plains Road,233rd St,2,5,,,,,,,,,,Stair,1,1,1,40.893215,-73.857344
+1818,White Plains Road,233rd St,2,5,,,,,,,,,,Stair,1,1,1,40.893597,-73.857405
+1819,White Plains Road,238th St-Nereid Av,2,5,,,,,,,,,,Stair,1,0,1,40.89862,-73.854316
+1820,White Plains Road,238th St-Nereid Av,2,5,,,,,,,,,,Stair,1,0,1,40.898323,-73.854288
+1821,White Plains Road,Allerton Av,2,5,,,,,,,,,,Stair,1,0,1,40.865605,-73.867476
+1822,White Plains Road,Allerton Av,2,5,,,,,,,,,,Stair,1,0,1,40.865257,-73.867246
+1823,White Plains Road,Bronx Park East,2,5,,,,,,,,,,Stair,1,0,1,40.848762,-73.868382
+1824,White Plains Road,Bronx Park East,2,5,,,,,,,,,,Stair,1,0,1,40.849169,-73.868356
+1825,White Plains Road,Bronx Park East,2,5,,,,,,,,,,Stair,1,0,1,40.849128,-73.868213
+1826,White Plains Road,Burke Av,2,5,,,,,,,,,,Stair,1,0,1,40.871631,-73.867283
+1827,White Plains Road,Burke Av,2,5,,,,,,,,,,Stair,1,0,1,40.871215,-73.867043
+1828,White Plains Road,East 180th St,2,5,,,,,,,,,,Door,1,0,1,40.841223,-73.873499
+1829,White Plains Road,East 180th St,2,5,,,,,,,,,,Door,1,0,1,40.841453,-73.872892
+1830,White Plains Road,East Tremont Av-West Farms Sq,2,5,,,,,,,,,,Escalator,1,0,1,40.840815,-73.879623
+1831,White Plains Road,East Tremont Av-West Farms Sq,2,5,,,,,,,,,,Stair,1,0,1,40.840434,-73.880005
+1832,White Plains Road,East Tremont Av-West Farms Sq,2,5,,,,,,,,,,Stair,1,0,1,40.840354,-73.879833
+1833,White Plains Road,East Tremont Av-West Farms Sq,2,5,,,,,,,,,,Stair,1,0,1,40.840639,-73.879555
+1834,White Plains Road,East Tremont Av-West Farms Sq,2,5,,,,,,,,,,Stair,1,0,1,40.841078,-73.879397
+1835,White Plains Road,Freeman St,2,5,,,,,,,,,,Stair,1,0,0,40.829903,-73.89202
+1836,White Plains Road,Freeman St,2,5,,,,,,,,,,Stair,1,0,0,40.830369,-73.892015
+1837,White Plains Road,Freeman St,2,5,,,,,,,,,,Stair,1,0,0,40.830074,-73.891486
+1838,White Plains Road,Freeman St,2,5,,,,,,,,,,Stair,1,0,0,40.830177,-73.891482
+1839,White Plains Road,Gun Hill Rd,2,5,,,,,,,,,,Door,1,0,1,40.877779,-73.866185
+1840,White Plains Road,Gun Hill Rd,2,5,,,,,,,,,,Stair,1,0,1,40.877839,-73.866421
+1841,White Plains Road,Intervale Av,2,5,,,,,,,,,,Escalator,1,0,1,40.8224,-73.896508
+1842,White Plains Road,Intervale Av,2,5,,,,,,,,,,Stair,1,0,1,40.822447,-73.896719
+1843,White Plains Road,Intervale Av,2,5,,,,,,,,,,Stair,1,0,1,40.822095,-73.896681
+1844,White Plains Road,Jackson Av,2,5,,,,,,,,,,Stair,1,0,0,40.816201,-73.907942
+1845,White Plains Road,Jackson Av,2,5,,,,,,,,,,Stair,1,0,0,40.816349,-73.907836
+1846,White Plains Road,Jackson Av,2,5,,,,,,,,,,Stair,1,0,0,40.816589,-73.907893
+1847,White Plains Road,Jackson Av,2,5,,,,,,,,,,Stair,1,0,0,40.816873,-73.907379
+1848,White Plains Road,Pelham Parkway,2,5,,,,,,,,,,Escalator,1,1,1,40.856338,-73.867544
+1849,White Plains Road,Pelham Parkway,2,5,,,,,,,,,,Stair,1,1,1,40.856403,-73.867771
+1850,White Plains Road,Pelham Parkway,2,5,,,,,,,,,,Stair,1,1,1,40.856337,-73.867521
+1851,White Plains Road,Pelham Parkway,2,5,,,,,,,,,,Stair,1,1,1,40.858041,-73.867718
+1852,White Plains Road,Pelham Parkway,2,5,,,,,,,,,,Stair,1,1,1,40.858029,-73.867481
+1853,White Plains Road,Prospect Av,2,5,,,,,,,,,,Stair,1,0,0,40.819583,-73.901958
+1854,White Plains Road,Prospect Av,2,5,,,,,,,,,,Stair,1,0,0,40.819887,-73.901666
+1855,White Plains Road,Prospect Av,2,5,,,,,,,,,,Stair,1,0,0,40.819368,-73.901966
+1856,White Plains Road,Prospect Av,2,5,,,,,,,,,,Stair,1,0,0,40.819562,-73.901498
+1857,White Plains Road,Prospect Av,2,5,,,,,,,,,,Stair,1,0,0,40.819684,-73.901348
+1858,White Plains Road,Simpson St,2,5,,,,,,,,,,Elevator,1,1,0,40.824356,-73.892897
+1859,White Plains Road,Simpson St,2,5,,,,,,,,,,Stair,1,1,0,40.824177,-73.893114
+1860,White Plains Road,Simpson St,2,5,,,,,,,,,,Stair,1,1,0,40.824358,-73.892724
+1861,White Plains Road,Simpson St,2,5,,,,,,,,,,Elevator,1,1,0,40.823884,-73.893197
+1862,White Plains Road,Simpson St,2,5,,,,,,,,,,Stair,1,1,0,40.824118,-73.892731
+1863,White Plains Road,Wakefield-241st St,2,5,,,,,,,,,,Stair,1,0,1,40.903597,-73.85036
+1864,White Plains Road,Wakefield-241st St,2,5,,,,,,,,,,Stair,1,0,1,40.903283,-73.850321
+1865,White Plains Road,Wakefield-241st St,2,5,,,,,,,,,,Stair,1,0,1,40.903509,-73.850124
+1866,Flushing,34 St Hudson Yards,7,,,,,,,,,,,Elevator,1,1,1,40.754904,-74.001323
+1867,Flushing,34 St Hudson Yards,7,,,,,,,,,,,Stair,1,1,1,40.754937,-74.000961
