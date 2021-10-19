@@ -10,7 +10,7 @@ from .serializers import SubwayMapSerializer
 from .models import SubwayMap
 
 
-class TestView(APIView):
+class SubwayAPI(APIView):
     def get(request, *args, **kwargs):
         qs = SubwayMap.objects.all()
         serializer = SubwayMapSerializer(qs, many=True)

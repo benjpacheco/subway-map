@@ -15,11 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from transitmap.views import TestView
+from transitmap.views import SubwayAPI
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', TestView.as_view(), name='test'),
+    path('', SubwayAPI.as_view(), name='Subway API'),
     path('api-auth/', include('rest_framework.urls')),
 
 ]
